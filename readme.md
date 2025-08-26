@@ -1,4 +1,4 @@
-We need to take as input pdfs, extract the content from them into json format (we will use marker for that). Then we want to flatten that content to an array while filtering out non content related blocks such as page blocks, header and footer blocks.
+We need to take as input pdfs, extract the content from them into json format (we will use marker for that). Then we want to flatten that content to an array while filtering out non content related blocks such as page blocks, header and footer blocks. You should be able to take as input a pdf or a dir of pdfs with potential dubdirectories of pdfs. Then the binary should output corresponding documents/structure which defaults to in a new neighboring folder with the same name but prepended with json_*. We should also be able to pass in a param to override the output_dir.
 
 
 We should start by making an implementation that just flattens to an array with 1 depth, then i can examine some results to choose which blocks to filter.
