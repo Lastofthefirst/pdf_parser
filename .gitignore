@@ -1,1 +1,8 @@
 /target
+
+# JSON output directories created by the parser
+json_*
+
+# Test and temporary files
+/tmp
+*.tmp
