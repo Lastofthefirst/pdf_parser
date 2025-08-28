@@ -1,0 +1,65 @@
+{
+  "children": [
+    {
+      "id": "/page/0/Page/10",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/0/Text/0'></content-ref><content-ref src='/page/0/SectionHeader/1'></content-ref><content-ref src='/page/0/Picture/2'></content-ref><content-ref src='/page/0/PageHeader/3'></content-ref><content-ref src='/page/0/PageFooter/4'></content-ref>",
+      "polygon": [[0.0, 0.0], [340.0, 0.0], [340.0, 454.0], [0.0, 454.0]],
+      "bbox": [0.0, 0.0, 340.0, 454.0],
+      "children": [
+        {
+          "id": "/page/0/Text/0",
+          "block_type": "Text",
+          "html": "<p>This is text content</p>",
+          "polygon": [[83.6, 81.8], [257.9, 81.8], [257.9, 150.4], [83.6, 150.4]],
+          "bbox": [83.6, 81.8, 257.9, 150.4],
+          "children": null,
+          "section_hierarchy": {},
+          "images": {}
+        },
+        {
+          "id": "/page/0/SectionHeader/1",
+          "block_type": "SectionHeader",
+          "html": "<h1>Section Header</h1>",
+          "polygon": [[88.5, 145.5], [255.1, 145.5], [255.1, 193.8], [88.5, 193.8]],
+          "bbox": [88.5, 145.5, 255.1, 193.8],
+          "children": null,
+          "section_hierarchy": {},
+          "images": {}
+        },
+        {
+          "id": "/page/0/Picture/2",
+          "block_type": "Picture",
+          "html": "",
+          "polygon": [[82.8, 220.2], [265.4, 220.2], [265.4, 270.9], [82.8, 270.9]],
+          "bbox": [82.8, 220.2, 265.4, 270.9],
+          "children": null,
+          "section_hierarchy": {},
+          "images": {}
+        },
+        {
+          "id": "/page/0/PageHeader/3",
+          "block_type": "PageHeader",
+          "html": "<p>Header Content</p>",
+          "polygon": [[82.8, 220.2], [265.4, 220.2], [265.4, 270.9], [82.8, 270.9]],
+          "bbox": [82.8, 220.2, 265.4, 270.9],
+          "children": null,
+          "section_hierarchy": {},
+          "images": {}
+        },
+        {
+          "id": "/page/0/PageFooter/4",
+          "block_type": "PageFooter",
+          "html": "<p>Footer Content</p>",
+          "polygon": [[137.6, 279.6], [207.8, 279.6], [207.8, 349.4], [137.6, 349.4]],
+          "bbox": [137.6, 279.6, 207.8, 349.4],
+          "children": null,
+          "section_hierarchy": {},
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {},
+      "images": null
+    }
+  ]
+}

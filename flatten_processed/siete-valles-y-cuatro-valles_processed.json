@@ -1,0 +1,1886 @@
+[
+  {
+    "id": "/page/0/Handwriting/1",
+    "block_type": "Handwriting",
+    "html": "<p></p>",
+    "text": ""
+  },
+  {
+    "id": "/page/0/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Bahá'u'lláh</p>",
+    "text": "Bahá'u'lláh"
+  },
+  {
+    "id": "/page/1/SectionHeader/0",
+    "block_type": "SectionHeader",
+    "html": "<h1>LOS SIETE VALLES Y LOS CUATRO VALLES</h1>",
+    "text": "LOS SIETE VALLES Y LOS CUATRO VALLES"
+  },
+  {
+    "id": "/page/1/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Cubierta: Eva Celdrán Esteban Maquetación: Nuria Saburit</p>",
+    "text": "Cubierta: Eva Celdrán Esteban Maquetación: Nuria Saburit"
+  },
+  {
+    "id": "/page/1/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">© De la presente edición: EDITORIAL BAHÁ'Í DE ESPAÑA, 2008 Marconi, 250 08224 Terrassa (Barcelona) www.bahai.es/editorial editorialbahai@bahai.es</p>",
+    "text": "© De la presente edición: EDITORIAL BAHÁ'Í DE ESPAÑA, 2008 Marconi, 250 08224 Terrassa (Barcelona) www.bahai.es/editorial editorialbahai@bahai.es"
+  },
+  {
+    "id": "/page/1/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Primera edición en España: 2008</p>",
+    "text": "Primera edición en España: 2008"
+  },
+  {
+    "id": "/page/1/Text/4",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">ISBN: 948-84-95652-59-1 Depósito Legal:</p>",
+    "text": "ISBN: 948-84-95652-59-1 Depósito Legal:"
+  },
+  {
+    "id": "/page/1/Text/5",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Impresión:</p>",
+    "text": "Impresión:"
+  },
+  {
+    "id": "/page/1/Text/6",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Impreso en España - <i>Printed in Spain</i></p>",
+    "text": "Impreso en España - Printed in Spain"
+  },
+  {
+    "id": "/page/1/Text/7",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Reservados todos los derechos. Este libro no podrá ser  reproducido ni total ni parcialmente por medio alguno, sin  la previa autorización por escrito del editor.</p>",
+    "text": "Reservados todos los derechos. Este libro no podrá ser reproducido ni total ni parcialmente por medio alguno, sin la previa autorización por escrito del editor."
+  },
+  {
+    "id": "/page/2/SectionHeader/0",
+    "block_type": "SectionHeader",
+    "html": "<h2>SUMARIO</h2>",
+    "text": "SUMARIO"
+  },
+  {
+    "id": "/page/2/TableOfContents/1",
+    "block_type": "TableOfContents",
+    "html": "<table><tbody><tr><th></th><th>INTRODUCCIÓN</th><th>11</th></tr><tr><td>LOS</td><td>SIETE<br>VALLES<br>.</td><td>13</td></tr><tr><td>1</td><td>EL<br>VALLE<br>B<br>.<br>DE<br>LA<br>SQUEDA</td><td>21</td></tr><tr><td>2</td><td>EL<br>VALLE<br>AMOR<br>.<br>DEL</td><td>25</td></tr><tr><td>3</td><td>EL<br>VALLE<br>CONOCIMIENTO<br>.<br>DEL</td><td>31</td></tr><tr><td>4</td><td>EL<br>VALLE<br>UNIDAD<br>.<br>DE<br>LA</td><td>39</td></tr><tr><td>5</td><td>EL<br>VALLE<br>CONTENTO<br>.<br>DEL</td><td>55</td></tr><tr><td>6</td><td>EL<br>VALLE<br>ASOMBRO<br>.<br>DEL</td><td>59</td></tr><tr><td>7</td><td>EL<br>VALLE<br>VERDADERA<br>POBREZA<br>DE<br>LA</td><td></td></tr><tr><td></td><td>NADA<br>ABSOLUTA<br>.<br>Y<br>LA</td><td>65</td></tr><tr><td>LOS</td><td>CUATRO<br>VALLES<br>.</td><td>75</td></tr><tr><td>1</td><td>EL<br>PRIMER<br>VALLE</td><td>81</td></tr><tr><td>2</td><td>EL<br>SEGUNDO<br>VALLE<br>.</td><td>85</td></tr><tr><td>3</td><td>EL<br>TERCER<br>VALLE</td><td>89</td></tr><tr><td>4</td><td>EL<br>CUARTO<br>VALLE<br>.</td><td>93</td></tr><tr><td></td><td></td><td></td></tr></tbody></table>",
+    "text": "INTRODUCCIÓN 11 LOS SIETE VALLES . 13 1 EL VALLE B . DE LA SQUEDA 21 2 EL VALLE AMOR . DEL 25 3 EL VALLE CONOCIMIENTO . DEL 31 4 EL VALLE UNIDAD . DE LA 39 5 EL VALLE CONTENTO . DEL 55 6 EL VALLE ASOMBRO . DEL 59 7 EL VALLE VERDADERA POBREZA DE LA NADA ABSOLUTA . Y LA 65 LOS CUATRO VALLES . 75 1 EL PRIMER VALLE 81 2 EL SEGUNDO VALLE . 85 3 EL TERCER VALLE 89 4 EL CUARTO VALLE . 93"
+  },
+  {
+    "id": "/page/3/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\"><math display=\"inline\">\\bigodot</math> os Siete Valles es una de las obras reve-L ladas por Bahá'u'lláh a Su regreso de Sulaymáníyyih. Sólo cabe describirla como una obra maestra del género místico. Fue escrita en respuesta a las preguntas de <math display=\"inline\">\\underline{\\text{Sh}}</math>ay<math display=\"inline\">\\underline{\\text{kh}}</math>Muḥyi'd-Dín, el juez de la ciudad de Khánigayn, que era sufí. Aunque no profesaba la Fe del Báb, era un admirador de Bahá'u'lláh. a Quien a través de una carta había expresado ciertos pensamientos acompañados de algunas preguntas sobre cuestiones místicas.</p>",
+    "text": "\\bigodot os Siete Valles es una de las obras reve-L ladas por Bahá'u'lláh a Su regreso de Sulaymáníyyih. Sólo cabe describirla como una obra maestra del género místico. Fue escrita en respuesta a las preguntas de \\underline{\\text{Sh}} ay \\underline{\\text{kh}} Muḥyi'd-Dín, el juez de la ciudad de Khánigayn, que era sufí. Aunque no profesaba la Fe del Báb, era un admirador de Bahá'u'lláh. a Quien a través de una carta había expresado ciertos pensamientos acompañados de algunas preguntas sobre cuestiones místicas."
+  },
+  {
+    "id": "/page/3/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\" class=\"has-continuation\">El tema de Los Siete Valles es el viaje del alma desde su morada terrenal a los reinos de la proximidad de Dios. Las siete etapas del viaje ya eran conocidas por los sufíes al haberlas descrito Farídu'd-Dín-i-'Attár, un exponente notable de los comienzos del sufismo.</p>",
+    "text": "El tema de Los Siete Valles es el viaje del alma desde su morada terrenal a los reinos de la proximidad de Dios. Las siete etapas del viaje ya eran conocidas por los sufíes al haberlas descrito Farídu'd-Dín-i-'Attár, un exponente notable de los comienzos del sufismo."
+  },
+  {
+    "id": "/page/4/Text/0",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Bahá'u'lláh Se explaya acerca del significado profundo de estas siete etapas.</p>",
+    "text": "Bahá'u'lláh Se explaya acerca del significado profundo de estas siete etapas."
+  },
+  {
+    "id": "/page/4/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Los Cuatro Valles es otro de los escritos místicos revelados en Bagdad. Se trata igualmente de una epístola en la que Bahá'u'lláh describe el viaje del caminante hacia su meta final. Los caminantes quedan agrupados en cuatro categorías.</p>",
+    "text": "Los Cuatro Valles es otro de los escritos místicos revelados en Bagdad. Se trata igualmente de una epístola en la que Bahá'u'lláh describe el viaje del caminante hacia su meta final. Los caminantes quedan agrupados en cuatro categorías."
+  },
+  {
+    "id": "/page/4/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Aunque el enfoque de Bahá'u'lláh en esta epístola difiere respecto del que se aprecia en Los Siete Valles, básicamente revela la misma verdad. Los Cuatro Valles tenía por destinatario a Shaykh 'Abdu'r-Rah. mán-i-Karkúkí, un hombre sabio y jefe de la Orden Qádiríyyih, quien conoció a Bahá'u'lláh en el Kurdistán. Era un admirador devoto de Bahá'u'lláh, que solía sentarse ante Sus pies en Sulaymáníyyih para escucharle hablar. Mantuvo correspondencia con Bahá'u'lláh durante el período en que Éste estuvo en el Kurdistán y en Bagdad.</p>",
+    "text": "Aunque el enfoque de Bahá'u'lláh en esta epístola difiere respecto del que se aprecia en Los Siete Valles, básicamente revela la misma verdad. Los Cuatro Valles tenía por destinatario a Shaykh 'Abdu'r-Rah. mán-i-Karkúkí, un hombre sabio y jefe de la Orden Qádiríyyih, quien conoció a Bahá'u'lláh en el Kurdistán. Era un admirador devoto de Bahá'u'lláh, que solía sentarse ante Sus pies en Sulaymáníyyih para escucharle hablar. Mantuvo correspondencia con Bahá'u'lláh durante el período en que Éste estuvo en el Kurdistán y en Bagdad."
+  },
+  {
+    "id": "/page/5/SectionHeader/0",
+    "block_type": "SectionHeader",
+    "html": "<h2>LOS SIETE VALLES</h2>",
+    "text": "LOS SIETE VALLES"
+  },
+  {
+    "id": "/page/6/SectionHeader/0",
+    "block_type": "SectionHeader",
+    "html": "<h3>EN EL NOMBRE DE DIOS, EL CLEMENTE. EL MISERICORDIOSO</h3>",
+    "text": "EN EL NOMBRE DE DIOS, EL CLEMENTE. EL MISERICORDIOSO"
+  },
+  {
+    "id": "/page/6/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">🔾 oado sea Dios, Quien de la nada forjó L la Creación, inscribió los misterios de la preexistencia sobre la Tabla del hombre; del Bayán le enseñó lo que ignoraba, hizo de él un Libro Luminoso para aquellos que creyeron y se sometieron; hizo que, en esta oscura y funesta edad, presenciara la creación de todas las cosas (Kull-i-Shay') y diese testimonio de ello con maravillosa voz sobre la cima de la eternidad en el Templo Excelente&lt;sup&gt;1&lt;/sup&gt;: a fin de que todo hombre pueda atestiguar, en sí y por sí mismo, y en el rango de la Manifestación de su Señor, que verdaderamente no hay Dios salvo Él, y para que todo hombre pueda así ganar la cumbre de las realidades, hasta que nadie contemple cosa alguna sin ver en ella a Dios.</p>",
+    "text": "🔾 oado sea Dios, Quien de la nada forjó L la Creación, inscribió los misterios de la preexistencia sobre la Tabla del hombre; del Bayán le enseñó lo que ignoraba, hizo de él un Libro Luminoso para aquellos que creyeron y se sometieron; hizo que, en esta oscura y funesta edad, presenciara la creación de todas las cosas (Kull-i-Shay') y diese testimonio de ello con maravillosa voz sobre la cima de la eternidad en el Templo Excelente&lt;sup&gt;1&lt;/sup&gt;: a fin de que todo hombre pueda atestiguar, en sí y por sí mismo, y en el rango de la Manifestación de su Señor, que verdaderamente no hay Dios salvo Él, y para que todo hombre pueda así ganar la cumbre de las realidades, hasta que nadie contemple cosa alguna sin ver en ella a Dios."
+  },
+  {
+    "id": "/page/7/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Y alabo y glorifico al primer mar, que fluyó del océano de la Esencia Divina, y a la primera alborada que despuntó en el Horizonte de la Unicidad, y al primer sol que brilló en el Cielo de la Eternidad, y a la primera llama que fue encendida por la Lámpara de la Preexistencia en el candil de la singularidad: aquél quien fue Ah. mad en el reino de los excelsos, Muh. ammad en el concurso de los íntimos, y Mah. múd2 en el dominio de los sinceros, «... invócalo por cualquier nombre que desees. Él tiene excelentísimos nombres»<sup>3</sup> en los corazones de aquellos que saben. ¡Y haya entre los Suyos y Sus compañeros abundante, eterna y perdurable paz!</p>",
+    "text": "Y alabo y glorifico al primer mar, que fluyó del océano de la Esencia Divina, y a la primera alborada que despuntó en el Horizonte de la Unicidad, y al primer sol que brilló en el Cielo de la Eternidad, y a la primera llama que fue encendida por la Lámpara de la Preexistencia en el candil de la singularidad: aquél quien fue Ah. mad en el reino de los excelsos, Muh. ammad en el concurso de los íntimos, y Mah. múd2 en el dominio de los sinceros, «... invócalo por cualquier nombre que desees. Él tiene excelentísimos nombres» 3 en los corazones de aquellos que saben. ¡Y haya entre los Suyos y Sus compañeros abundante, eterna y perdurable paz!"
+  },
+  {
+    "id": "/page/7/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Además, hemos escuchado con atención lo que el ruiseñor del conocimiento cantó desde las ramas del árbol de tu ser, y hemos aprendido lo que la paloma de la certeza pregonó desde la pérgola de tu corazón. Pienso que, al leer tu carta, ciertamente aspiré las fragancias de las vestiduras de tu</p>",
+    "text": "Además, hemos escuchado con atención lo que el ruiseñor del conocimiento cantó desde las ramas del árbol de tu ser, y hemos aprendido lo que la paloma de la certeza pregonó desde la pérgola de tu corazón. Pienso que, al leer tu carta, ciertamente aspiré las fragancias de las vestiduras de tu"
+  },
+  {
+    "id": "/page/8/Caption/0",
+    "block_type": "Caption",
+    "html": "<p>LOS SIETE VALLES</p>",
+    "text": "LOS SIETE VALLES"
+  },
+  {
+    "id": "/page/8/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">amor y alcancé tu presencia. Y puesto que noté que mencionas tu muerte en Dios, y tu vida a través de Él, y tu amor por los amados de Dios y por las Manifestaciones de Sus Nombres y los Albores de Sus Atributos, por tanto revelaré para ti los sagrados y resplandecientes signos de los mundos de gloria, para atraerte a la corte de santidad, proximidad y belleza, y llevarte a una posición desde la cual no verás nada en la creación salvo el Rostro de tu Bienamado, El que merece honra, y contemplarás todas las cosas creadas como en el día en que ninguna poseía nombre.</p>",
+    "text": "amor y alcancé tu presencia. Y puesto que noté que mencionas tu muerte en Dios, y tu vida a través de Él, y tu amor por los amados de Dios y por las Manifestaciones de Sus Nombres y los Albores de Sus Atributos, por tanto revelaré para ti los sagrados y resplandecientes signos de los mundos de gloria, para atraerte a la corte de santidad, proximidad y belleza, y llevarte a una posición desde la cual no verás nada en la creación salvo el Rostro de tu Bienamado, El que merece honra, y contemplarás todas las cosas creadas como en el día en que ninguna poseía nombre."
+  },
+  {
+    "id": "/page/8/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\" class=\"has-continuation\">Sobre esto cantó el ruiseñor de la unicidad en el jardín de Ghawthíyyih4 . Dijo Él: «Y aparecerá en la tabla de tu corazón un escrito sobre los sutiles misterios del \"Teme a Dios y Dios te dará conocimiento\"5 ; y el ave de tu alma recordará los sagrados santuarios de la preexistencia y ascenderá en alas del anhelo al cielo del \"camina sobre los hollados senderos de tu Señor\"6 , y recogerás los frutos de la</p>",
+    "text": "Sobre esto cantó el ruiseñor de la unicidad en el jardín de Ghawthíyyih4 . Dijo Él: «Y aparecerá en la tabla de tu corazón un escrito sobre los sutiles misterios del \"Teme a Dios y Dios te dará conocimiento\"5 ; y el ave de tu alma recordará los sagrados santuarios de la preexistencia y ascenderá en alas del anhelo al cielo del \"camina sobre los hollados senderos de tu Señor\"6 , y recogerás los frutos de la"
+  },
+  {
+    "id": "/page/9/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">comunión en los jardines de Él \"Aliméntate, entonces, con toda clase de frutos\"7 ».</p>",
+    "text": "comunión en los jardines de Él \"Aliméntate, entonces, con toda clase de frutos\"7 »."
+  },
+  {
+    "id": "/page/9/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Por Mi vida, oh amigo, si probaras de estos frutos del verde jardín de capullos que crecen en las tierras del conocimiento, junto a las luces de guía de la Esencia, en los espejos de los nombres y atributos, un vivo deseo arrancaría de tu mano las riendas de la paciencia y el recato, y haría temblar tu alma con luz centelleante; te arrastraría de tu hogar terreno hacia la primera morada celestial, en el Centro de las Realidades; te elevaría sobre la tierra y te haría deslizar sobre el agua como si corrieses por los campos. Por tanto, que ello nos regocije a Mí y a ti y a quienquiera se remonte al cielo del conocimiento y cuyo corazón sea, por esto, refrescado: las brisas de la certeza han soplado sobre el jardín de su ser desde el Sheba del Todomisericordioso.</p>",
+    "text": "Por Mi vida, oh amigo, si probaras de estos frutos del verde jardín de capullos que crecen en las tierras del conocimiento, junto a las luces de guía de la Esencia, en los espejos de los nombres y atributos, un vivo deseo arrancaría de tu mano las riendas de la paciencia y el recato, y haría temblar tu alma con luz centelleante; te arrastraría de tu hogar terreno hacia la primera morada celestial, en el Centro de las Realidades; te elevaría sobre la tierra y te haría deslizar sobre el agua como si corrieses por los campos. Por tanto, que ello nos regocije a Mí y a ti y a quienquiera se remonte al cielo del conocimiento y cuyo corazón sea, por esto, refrescado: las brisas de la certeza han soplado sobre el jardín de su ser desde el Sheba del Todomisericordioso."
+  },
+  {
+    "id": "/page/9/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">¡La paz sea con aquél que sigue el Recto Sendero!</p>",
+    "text": "¡La paz sea con aquél que sigue el Recto Sendero!"
+  },
+  {
+    "id": "/page/10/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Y es más, se dice que siete son las etapas que jalonan la jornada del caminante desde la morada de polvo hasta la patria celestial. Algunos la llaman los Siete Valles, otros las Siete Ciudades. Y dicen que el caminante no alcanzará el océano de la cercanía y la unión, ni beberá del incomparable vino, hasta que no se desprenda de sí mismo y atraviese estas etapas. La primera es:</p>",
+    "text": "Y es más, se dice que siete son las etapas que jalonan la jornada del caminante desde la morada de polvo hasta la patria celestial. Algunos la llaman los Siete Valles, otros las Siete Ciudades. Y dicen que el caminante no alcanzará el océano de la cercanía y la unión, ni beberá del incomparable vino, hasta que no se desprenda de sí mismo y atraviese estas etapas. La primera es:"
+  },
+  {
+    "id": "/page/10/Handwriting/2",
+    "block_type": "Handwriting",
+    "html": "<p>El Valle de la Búsqueda</p>",
+    "text": "El Valle de la Búsqueda"
+  },
+  {
+    "id": "/page/11/SectionHeader/0",
+    "block_type": "SectionHeader",
+    "html": "<h3>EL VALLE DE LA BÚSQUEDA</h3>",
+    "text": "EL VALLE DE LA BÚSQUEDA"
+  },
+  {
+    "id": "/page/11/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\"><math display=\"inline\">\\mathcal{L}</math>l corcel de este Valle es la paciencia; sin <math display=\"inline\">\\mathcal{O}_{\\text{ella, en esta jornada el caminante no}}</math>arribará a ningún lugar ni alcanzará meta alguna. No deberá jamás desanimarse; y si por cien años se esforzara y aún no lograse contemplar la belleza del Amigo, no deberá titubear. Puesto que los que buscan el Ka'bih&lt;sup&gt;8&lt;/sup&gt; del «para Nos» se regocijan con las nuevas del: «Por Nuestros caminos los guiaremos»&lt;sup&gt;9&lt;/sup&gt;. En su búsqueda han ceñido firmemente sus mantos de servicio y procuran en todo momento pasar del plano de la inconsciencia al reino del ser. No habrá atadura que los detenga ni consejo que los haya de disuadir.</p>",
+    "text": "\\mathcal{L} l corcel de este Valle es la paciencia; sin \\mathcal{O}_{\\text{ella, en esta jornada el caminante no}} arribará a ningún lugar ni alcanzará meta alguna. No deberá jamás desanimarse; y si por cien años se esforzara y aún no lograse contemplar la belleza del Amigo, no deberá titubear. Puesto que los que buscan el Ka'bih&lt;sup&gt;8&lt;/sup&gt; del «para Nos» se regocijan con las nuevas del: «Por Nuestros caminos los guiaremos»&lt;sup&gt;9&lt;/sup&gt;. En su búsqueda han ceñido firmemente sus mantos de servicio y procuran en todo momento pasar del plano de la inconsciencia al reino del ser. No habrá atadura que los detenga ni consejo que los haya de disuadir."
+  },
+  {
+    "id": "/page/11/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\" class=\"has-continuation\">Incumbe a estos siervos purificar el corazón —manantial de los tesoros divinos de toda mancha, y alejarse de la imitación, que es la de seguir los pasos de sus antepasa-</p>",
+    "text": "Incumbe a estos siervos purificar el corazón —manantial de los tesoros divinos de toda mancha, y alejarse de la imitación, que es la de seguir los pasos de sus antepasa-"
+  },
+  {
+    "id": "/page/12/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">dos y progenitores, y cerrar la puerta de la amistad y la enemistad a todos los habitantes de la tierra.</p>",
+    "text": "dos y progenitores, y cerrar la puerta de la amistad y la enemistad a todos los habitantes de la tierra."
+  },
+  {
+    "id": "/page/12/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">En este viaje, el buscador llega a una etapa en la que ve a todas las cosas creadas vagar confundidas buscando al Amigo. A más de un Jacob verá tras las huellas de su José; ¡cuántos amantes presurosos en busca del Amado contemplará! Presenciará un mundo de seres anhelantes en busca del Deseado. A cada momento encontrará un asunto a ponderar, a cada hora se dará cuenta de un misterio; pues apartó su corazón de ambos mundos y se encaminó al Ka'bih10 del Amado. A cada paso recibirá la ayuda del Dominio Invisible y el ardor de su búsqueda crecerá.</p>",
+    "text": "En este viaje, el buscador llega a una etapa en la que ve a todas las cosas creadas vagar confundidas buscando al Amigo. A más de un Jacob verá tras las huellas de su José; ¡cuántos amantes presurosos en busca del Amado contemplará! Presenciará un mundo de seres anhelantes en busca del Deseado. A cada momento encontrará un asunto a ponderar, a cada hora se dará cuenta de un misterio; pues apartó su corazón de ambos mundos y se encaminó al Ka'bih10 del Amado. A cada paso recibirá la ayuda del Dominio Invisible y el ardor de su búsqueda crecerá."
+  },
+  {
+    "id": "/page/12/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\" class=\"has-continuation\">Ha de medirse la búsqueda con la vara del Majnún del Amor11. Dice el relato que un día se encontró a Majnún tamizando el polvo, bañado en lágrimas. Le preguntaron: «¿Qué haces?». Él dijo: «Busco a Laylí». Ellos</p>",
+    "text": "Ha de medirse la búsqueda con la vara del Majnún del Amor11. Dice el relato que un día se encontró a Majnún tamizando el polvo, bañado en lágrimas. Le preguntaron: «¿Qué haces?». Él dijo: «Busco a Laylí». Ellos"
+  },
+  {
+    "id": "/page/13/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">exclamaron: «¡Ay de ti! ¡Laylí es de espíritu puro y la buscas en el polvo!». Majnún contestó: «La busco por doquier, quizás la encuentre en algún lugar».</p>",
+    "text": "exclamaron: «¡Ay de ti! ¡Laylí es de espíritu puro y la buscas en el polvo!». Majnún contestó: «La busco por doquier, quizás la encuentre en algún lugar»."
+  },
+  {
+    "id": "/page/13/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Por cierto, y a pesar de que para los sabios es vergonzoso buscar en el polvo al Señor de los Señores, aun así ello da muestras del intenso ardor de la búsqueda. «Quienquiera busque algo con celo, lo encontrará»12.</p>",
+    "text": "Por cierto, y a pesar de que para los sabios es vergonzoso buscar en el polvo al Señor de los Señores, aun así ello da muestras del intenso ardor de la búsqueda. «Quienquiera busque algo con celo, lo encontrará»12."
+  },
+  {
+    "id": "/page/13/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">El verdadero buscador nada persigue sino el objeto de su búsqueda, y el amante no tiene deseo alguno salvo la unión con su amada; no alcanzará el buscador su meta a menos que todo lo sacrifique. Es decir, tiene que reducir a nada todo lo visto, oído o entendido para poder así entrar en el reino del espíritu, que es la Ciudad de Dios. Es necesario el esfuerzo, si hemos de buscarlo; es necesario el fervor, si hemos de gustar la miel de la reunión con Él; y si probásemos de esta copa, desecharíamos el mundo.</p>",
+    "text": "El verdadero buscador nada persigue sino el objeto de su búsqueda, y el amante no tiene deseo alguno salvo la unión con su amada; no alcanzará el buscador su meta a menos que todo lo sacrifique. Es decir, tiene que reducir a nada todo lo visto, oído o entendido para poder así entrar en el reino del espíritu, que es la Ciudad de Dios. Es necesario el esfuerzo, si hemos de buscarlo; es necesario el fervor, si hemos de gustar la miel de la reunión con Él; y si probásemos de esta copa, desecharíamos el mundo."
+  },
+  {
+    "id": "/page/14/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">En esta jornada el caminante mora en toda tierra y habita en toda región. En cada rostro, busca la belleza del Amigo; en cada país, indaga por el Amado. Se une a todos y busca la compañía de cada alma, pues quizá pueda descubrir en alguna mente el secreto del Amigo o contemplar en algún semblante la belleza del Amado.</p>",
+    "text": "En esta jornada el caminante mora en toda tierra y habita en toda región. En cada rostro, busca la belleza del Amigo; en cada país, indaga por el Amado. Se une a todos y busca la compañía de cada alma, pues quizá pueda descubrir en alguna mente el secreto del Amigo o contemplar en algún semblante la belleza del Amado."
+  },
+  {
+    "id": "/page/14/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Y si con la ayuda de Dios encontrase en esta jornada alguna señal del Amigo sin rastro y de parte del mensajero celestial inhalara la fragancia del añorado José13, ha de entrar directamente en:</p>",
+    "text": "Y si con la ayuda de Dios encontrase en esta jornada alguna señal del Amigo sin rastro y de parte del mensajero celestial inhalara la fragancia del añorado José13, ha de entrar directamente en:"
+  },
+  {
+    "id": "/page/14/Handwriting/3",
+    "block_type": "Handwriting",
+    "html": "<p>El Valle del Amor</p>",
+    "text": "El Valle del Amor"
+  },
+  {
+    "id": "/page/15/SectionHeader/0",
+    "block_type": "SectionHeader",
+    "html": "<h3>EL VALLE DEL AMOR</h3>",
+    "text": "EL VALLE DEL AMOR"
+  },
+  {
+    "id": "/page/15/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">será consumido en el fuego del amor.&lt;br&gt;En esta ciudad se erige el cielo del éxtasis, brilla el sol del anhelo que ilumina al mundo; y el fuego del amor, al arder, reduce a cenizas la cosecha de la razón.</p>",
+    "text": "será consumido en el fuego del amor.&lt;br&gt;En esta ciudad se erige el cielo del éxtasis, brilla el sol del anhelo que ilumina al mundo; y el fuego del amor, al arder, reduce a cenizas la cosecha de la razón."
+  },
+  {
+    "id": "/page/15/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">El caminante ya no se percata de sí mismo, ni de nada a su alrededor. No discierne ya entre ignorancia y conocimiento, duda o certeza; ni distingue la aurora de guía de la noche del error. Huve tanto de la fe como del descreimiento y el veneno mortal le es un bálsamo. Por eso dijo 'Aṭṭár&lt;sup&gt;14&lt;/sup&gt;:</p>",
+    "text": "El caminante ya no se percata de sí mismo, ni de nada a su alrededor. No discierne ya entre ignorancia y conocimiento, duda o certeza; ni distingue la aurora de guía de la noche del error. Huve tanto de la fe como del descreimiento y el veneno mortal le es un bálsamo. Por eso dijo 'Aṭṭár&lt;sup&gt;14&lt;/sup&gt;:"
+  },
+  {
+    "id": "/page/15/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Para el infiel, error, y para el sumiso, fe. Para el corazón de 'Attár, un átomo de Tu dolor.</p>",
+    "text": "Para el infiel, error, y para el sumiso, fe. Para el corazón de 'Attár, un átomo de Tu dolor."
+  },
+  {
+    "id": "/page/15/Text/4",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\" class=\"has-continuation\">El corcel de este Valle es el dolor y sin él esta jornada no tendrá fin. En este estado, el</p>",
+    "text": "El corcel de este Valle es el dolor y sin él esta jornada no tendrá fin. En este estado, el"
+  },
+  {
+    "id": "/page/16/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">amante no piensa sino en el Bienamado y no busca refugio salvo en el Amigo. A cada instante ofrece cien vidas en el camino del Amado, a cada paso arroja mil cabezas a Sus pies.</p>",
+    "text": "amante no piensa sino en el Bienamado y no busca refugio salvo en el Amigo. A cada instante ofrece cien vidas en el camino del Amado, a cada paso arroja mil cabezas a Sus pies."
+  },
+  {
+    "id": "/page/16/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">¡Oh hermano mío! Hasta que holles el Egipto del Amor no has de hallar al José de la Belleza del Amigo; y a no ser que, como Jacob, reniegues de tus ojos externos, jamás has de abrir el ojo de tu ser interior; y a no ser que ardas con el fuego del amor, jamás has de comulgar con el Amante de tu Anhelo.</p>",
+    "text": "¡Oh hermano mío! Hasta que holles el Egipto del Amor no has de hallar al José de la Belleza del Amigo; y a no ser que, como Jacob, reniegues de tus ojos externos, jamás has de abrir el ojo de tu ser interior; y a no ser que ardas con el fuego del amor, jamás has de comulgar con el Amante de tu Anhelo."
+  },
+  {
+    "id": "/page/16/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">A nada teme un amante, ni mal alguno puede aquejarle. Tú lo contemplas frío en el fuego y seco en el mar.</p>",
+    "text": "A nada teme un amante, ni mal alguno puede aquejarle. Tú lo contemplas frío en el fuego y seco en el mar."
+  },
+  {
+    "id": "/page/16/Text/4",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Amante es aquel que vive fresco en el fuego del infierno; sabio es aquel que permanece seco entre las aguas.15</p>",
+    "text": "Amante es aquel que vive fresco en el fuego del infierno; sabio es aquel que permanece seco entre las aguas.15"
+  },
+  {
+    "id": "/page/16/Text/5",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">El amor no admite existencia, ni desea vida; ve vida en la muerte y busca gloria en</p>",
+    "text": "El amor no admite existencia, ni desea vida; ve vida en la muerte y busca gloria en"
+  },
+  {
+    "id": "/page/17/Caption/0",
+    "block_type": "Caption",
+    "html": "<p>EL VALLE DEL AMOR</p>",
+    "text": "EL VALLE DEL AMOR"
+  },
+  {
+    "id": "/page/17/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">la vergüenza. Para merecer la locura del amor, el hombre ha de tener cordura abundante; para merecer los lazos del Amigo, ha de estar pleno de espiritualidad. ¡Bendito sea el cuello atrapado en Su dogal, y feliz la cabeza que cae en la senda polvorienta de Su amor! Por lo tanto, oh amigo, renuncia a ti mismo para que puedas hallar al Incomparable; pasa de largo por esta tierra buscando tu morada en el nido celestial. Si quieres encender el fuego del ser y ser apto en el sendero del amor, sé como la misma nada.</p>",
+    "text": "la vergüenza. Para merecer la locura del amor, el hombre ha de tener cordura abundante; para merecer los lazos del Amigo, ha de estar pleno de espiritualidad. ¡Bendito sea el cuello atrapado en Su dogal, y feliz la cabeza que cae en la senda polvorienta de Su amor! Por lo tanto, oh amigo, renuncia a ti mismo para que puedas hallar al Incomparable; pasa de largo por esta tierra buscando tu morada en el nido celestial. Si quieres encender el fuego del ser y ser apto en el sendero del amor, sé como la misma nada."
+  },
+  {
+    "id": "/page/17/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">No se apodera el amor de un alma viviente, ni apresa el halcón una víctima muerta. 16</p>",
+    "text": "No se apodera el amor de un alma viviente, ni apresa el halcón una víctima muerta. 16"
+  },
+  {
+    "id": "/page/17/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\" class=\"has-continuation\">El amor hace arder un mundo a cada instante y asola cada país en el que planta su bandera. El ser no existe en su reino, y en sus dominios los sabios carecen de mando. El Leviatán del amor devora al maestro de la</p>",
+    "text": "El amor hace arder un mundo a cada instante y asola cada país en el que planta su bandera. El ser no existe en su reino, y en sus dominios los sabios carecen de mando. El Leviatán del amor devora al maestro de la"
+  },
+  {
+    "id": "/page/18/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">razón y destruye al señor del conocimiento. Bebe los siete mares sin saciar la sed de su corazón y dice: «¿Hay más aún?»17. Rehúye de sí mismo y se aparta de todo en la tierra.</p>",
+    "text": "razón y destruye al señor del conocimiento. Bebe los siete mares sin saciar la sed de su corazón y dice: «¿Hay más aún?»17. Rehúye de sí mismo y se aparta de todo en la tierra."
+  },
+  {
+    "id": "/page/18/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">El amor es un extraño en el cielo y en la tierra.</p>",
+    "text": "El amor es un extraño en el cielo y en la tierra."
+  },
+  {
+    "id": "/page/18/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Setenta y dos locuras en él encierra. 18</p>",
+    "text": "Setenta y dos locuras en él encierra. 18"
+  },
+  {
+    "id": "/page/18/Text/4",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">A múltiples víctimas atenazaron sus garras y a innumerables sabios atravesaron sus flechas. Sabed que todo lo rojo del mundo procede de su cólera y que toda palidez de las mejillas viene de su veneno. No admite más remedio que la muerte y no anda sino en el valle sombrío; aun así, a los labios del amante su veneno es más dulce que la miel, y a los ojos del buscador su destrucción es preferible a millares de vidas.</p>",
+    "text": "A múltiples víctimas atenazaron sus garras y a innumerables sabios atravesaron sus flechas. Sabed que todo lo rojo del mundo procede de su cólera y que toda palidez de las mejillas viene de su veneno. No admite más remedio que la muerte y no anda sino en el valle sombrío; aun así, a los labios del amante su veneno es más dulce que la miel, y a los ojos del buscador su destrucción es preferible a millares de vidas."
+  },
+  {
+    "id": "/page/18/Text/5",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\" class=\"has-continuation\">Por lo cual, para que el espíritu pueda ser purificado y ya limpio pueda conocer la grandeza del Señor de los Mundos, han de</p>",
+    "text": "Por lo cual, para que el espíritu pueda ser purificado y ya limpio pueda conocer la grandeza del Señor de los Mundos, han de"
+  },
+  {
+    "id": "/page/19/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">arder en el fuego del amor los satánicos velos del yo.</p>",
+    "text": "arder en el fuego del amor los satánicos velos del yo."
+  },
+  {
+    "id": "/page/19/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">El fuego del amor todo lo enciende y lo quema. Entra, entonces, en el país de los amantes. 19</p>",
+    "text": "El fuego del amor todo lo enciende y lo quema. Entra, entonces, en el país de los amantes. 19"
+  },
+  {
+    "id": "/page/19/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Y si el amante, confirmado por el Creador, escapa de las garras del águila del amor, entrará en:</p>",
+    "text": "Y si el amante, confirmado por el Creador, escapa de las garras del águila del amor, entrará en:"
+  },
+  {
+    "id": "/page/19/Handwriting/4",
+    "block_type": "Handwriting",
+    "html": "<p>El Valle del Conocimiento</p>",
+    "text": "El Valle del Conocimiento"
+  },
+  {
+    "id": "/page/20/SectionHeader/0",
+    "block_type": "SectionHeader",
+    "html": "<h3>EL VALLE DEL CONOCIMIENTO</h3>",
+    "text": "EL VALLE DEL CONOCIMIENTO"
+  },
+  {
+    "id": "/page/20/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">saldrá de la duda para hallar la certeza, y se volverá de las oscuras ilusiones hacia la luz de guía del temor de Dios. Se abrirá su vista interior y conversará íntimamente con el Bienamado. Entreabrirá el portal de la verdad y la piedad, y cerrará las puertas de las vanas imaginaciones. En esta etapa se contenta con el decreto de Dios, ve en la guerra la paz y encuentra en la muerte los secretos de la vida sempiterna. Con ojos interiores y exteriores atestigua los misterios de la resurrección en los dominios de lo creado y en las almas de los hombres, y purificado su corazón, comprende la sabiduría divina en las infinitas Manifestaciones de Dios. En el océano discierne una gota y en una gota contempla los secretos que atesora el mar</p>",
+    "text": "saldrá de la duda para hallar la certeza, y se volverá de las oscuras ilusiones hacia la luz de guía del temor de Dios. Se abrirá su vista interior y conversará íntimamente con el Bienamado. Entreabrirá el portal de la verdad y la piedad, y cerrará las puertas de las vanas imaginaciones. En esta etapa se contenta con el decreto de Dios, ve en la guerra la paz y encuentra en la muerte los secretos de la vida sempiterna. Con ojos interiores y exteriores atestigua los misterios de la resurrección en los dominios de lo creado y en las almas de los hombres, y purificado su corazón, comprende la sabiduría divina en las infinitas Manifestaciones de Dios. En el océano discierne una gota y en una gota contempla los secretos que atesora el mar"
+  },
+  {
+    "id": "/page/21/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">P arte el corazón del átomo y mira dentro de él. ¡Hallarás el sol!20</p>",
+    "text": "P arte el corazón del átomo y mira dentro de él. ¡Hallarás el sol!20"
+  },
+  {
+    "id": "/page/21/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\" class=\"has-continuation\">En este Valle, el caminante no ve sino la clara providencia de las obras del Verdadero, diciendo a cada paso: «No puedes ver ningún defecto en la creación del Dios de Misericordia. Vuelve a mirar. ¿Puedes ver acaso un solo fallo?»21. Percibe justicia en la injusticia, y en el desafuero, merced. En la ignorancia encuentra muchos conocimientos ocultos, y en el conocimiento, innumerables sabidurías manifiestas. Rompe la jaula del cuerpo y de las pasiones, y se asocia con los pueblos del reino inmortal. Asciende por los peldaños de la verdad interior y se apresura hacia el cielo de profundo significado. Viaja en el arca del «les mostraremos nuestras señales en las regiones y en ellos mismos»22, y navega sobre el mar de «hasta que se les haga evidente que (este Libro) es la verdad»23. Y si se encontrase con la injusti-</p>",
+    "text": "En este Valle, el caminante no ve sino la clara providencia de las obras del Verdadero, diciendo a cada paso: «No puedes ver ningún defecto en la creación del Dios de Misericordia. Vuelve a mirar. ¿Puedes ver acaso un solo fallo?»21. Percibe justicia en la injusticia, y en el desafuero, merced. En la ignorancia encuentra muchos conocimientos ocultos, y en el conocimiento, innumerables sabidurías manifiestas. Rompe la jaula del cuerpo y de las pasiones, y se asocia con los pueblos del reino inmortal. Asciende por los peldaños de la verdad interior y se apresura hacia el cielo de profundo significado. Viaja en el arca del «les mostraremos nuestras señales en las regiones y en ellos mismos»22, y navega sobre el mar de «hasta que se les haga evidente que (este Libro) es la verdad»23. Y si se encontrase con la injusti-"
+  },
+  {
+    "id": "/page/22/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">cia, tendrá paciencia y, al enfrentarse a la ira, manifestará amor.</p>",
+    "text": "cia, tendrá paciencia y, al enfrentarse a la ira, manifestará amor."
+  },
+  {
+    "id": "/page/22/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Había una vez un amante que había sufrido varios años la separación de su amada y se consumía en el fuego de la lejanía. Por imperio del amor, su corazón quedó vacío de paciencia, y su cuerpo, cansado de su espíritu; consideraba una burla la vida sin ella y el tiempo lo iba consumiendo. Muchos fueron los días en que, añorándola, no halló sosiego, y muchas las noches en que su dolor por ella le privó del sueño; su cuerpo se consumía en suspiros, la herida de su corazón lo había convertido en un quejido lastimero. Habría dado mil vidas por una gota en la copa de su presencia, pero de nada le sirvió. Los médicos no le encontraban remedio, y sus camaradas evitaban su compañía; ciertamente, los doctores no conocen el remedio para un enfermo de amor, a no ser que el favor de la amada lo salve.</p>",
+    "text": "Había una vez un amante que había sufrido varios años la separación de su amada y se consumía en el fuego de la lejanía. Por imperio del amor, su corazón quedó vacío de paciencia, y su cuerpo, cansado de su espíritu; consideraba una burla la vida sin ella y el tiempo lo iba consumiendo. Muchos fueron los días en que, añorándola, no halló sosiego, y muchas las noches en que su dolor por ella le privó del sueño; su cuerpo se consumía en suspiros, la herida de su corazón lo había convertido en un quejido lastimero. Habría dado mil vidas por una gota en la copa de su presencia, pero de nada le sirvió. Los médicos no le encontraban remedio, y sus camaradas evitaban su compañía; ciertamente, los doctores no conocen el remedio para un enfermo de amor, a no ser que el favor de la amada lo salve."
+  },
+  {
+    "id": "/page/23/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Finalmente, el árbol de su añoranza engendró el fruto de la desesperación, y el fuego de su esperanza se redujo a cenizas. Una noche, sin poder vivir, salió de su casa y se dirigió a la plaza. De repente, un sereno le siguió. Perseguido por él, echó a correr. Entonces otros se unieron a éste, cerrándole todos los caminos al fatigado. El desdichado corrió de aquí para allá, clamando y lamentándose: «Seguramente este guardia que me persigue tan tenazmente es 'Izrá'íl, mi ángel de la muerte; o es un tirano que trata de hacerme daño». Sus pies lo sostenían, sangrando uno de ellos por la flecha del amor, mientras su corazón se lamentaba. Entonces llegó hasta el muro de un jardín y lo escaló con inenarrable dolor, ya que era muy alto; y, olvidándose de su vida, se arrojó al jardín.</p>",
+    "text": "Finalmente, el árbol de su añoranza engendró el fruto de la desesperación, y el fuego de su esperanza se redujo a cenizas. Una noche, sin poder vivir, salió de su casa y se dirigió a la plaza. De repente, un sereno le siguió. Perseguido por él, echó a correr. Entonces otros se unieron a éste, cerrándole todos los caminos al fatigado. El desdichado corrió de aquí para allá, clamando y lamentándose: «Seguramente este guardia que me persigue tan tenazmente es 'Izrá'íl, mi ángel de la muerte; o es un tirano que trata de hacerme daño». Sus pies lo sostenían, sangrando uno de ellos por la flecha del amor, mientras su corazón se lamentaba. Entonces llegó hasta el muro de un jardín y lo escaló con inenarrable dolor, ya que era muy alto; y, olvidándose de su vida, se arrojó al jardín."
+  },
+  {
+    "id": "/page/23/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\" class=\"has-continuation\">Y vio allí a su amada, que, lámpara en mano, buscaba un anillo que había perdido. Cuando el amante de corazón subyugado vio a su amado corazón, respiró profunda-</p>",
+    "text": "Y vio allí a su amada, que, lámpara en mano, buscaba un anillo que había perdido. Cuando el amante de corazón subyugado vio a su amado corazón, respiró profunda-"
+  },
+  {
+    "id": "/page/24/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">mente y, alzando sus manos en oración, exclamó: «¡Oh Dios! ¡Otorga gloria, riquezas y larga vida al guardia, ya que era Gabriel, quien guió a este pobre; o era Isráfíl, que dio vida a este desdichado».</p>",
+    "text": "mente y, alzando sus manos en oración, exclamó: «¡Oh Dios! ¡Otorga gloria, riquezas y larga vida al guardia, ya que era Gabriel, quien guió a este pobre; o era Isráfíl, que dio vida a este desdichado»."
+  },
+  {
+    "id": "/page/24/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Verdaderamente, sus palabras eran ciertas, pues había hallado mucha justicia secreta en esta aparente tiranía del sereno, y vio cuánta clemencia yacía oculta tras el velo. En su cólera, el guardia había guiado al que estaba sediento en el desierto del amor al océano de su amada, y había iluminado la noche de la ausencia con la luz del encuentro. Había lanzado a quien estaba alejado hacia el jardín de la cercanía, y había guiado a un alma doliente hacia el médico del corazón.</p>",
+    "text": "Verdaderamente, sus palabras eran ciertas, pues había hallado mucha justicia secreta en esta aparente tiranía del sereno, y vio cuánta clemencia yacía oculta tras el velo. En su cólera, el guardia había guiado al que estaba sediento en el desierto del amor al océano de su amada, y había iluminado la noche de la ausencia con la luz del encuentro. Había lanzado a quien estaba alejado hacia el jardín de la cercanía, y había guiado a un alma doliente hacia el médico del corazón."
+  },
+  {
+    "id": "/page/24/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\" class=\"has-continuation\">Ahora bien, si el amante hubiese tenido visión, desde un principio hubiera bendecido al guardia y, rogando por él, hubiera visto justicia en esa tiranía; pero estándole velado el fin, en un principio prorrumpió en</p>",
+    "text": "Ahora bien, si el amante hubiese tenido visión, desde un principio hubiera bendecido al guardia y, rogando por él, hubiera visto justicia en esa tiranía; pero estándole velado el fin, en un principio prorrumpió en"
+  },
+  {
+    "id": "/page/25/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">lamentaciones y quejas. Mas aquellos que transitan en los jardines del conocimiento, porque ven el fin en el principio, ven paz en la guerra y amistad en la ira.</p>",
+    "text": "lamentaciones y quejas. Mas aquellos que transitan en los jardines del conocimiento, porque ven el fin en el principio, ven paz en la guerra y amistad en la ira."
+  },
+  {
+    "id": "/page/25/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Tal es el estado de los caminantes en este Valle. Mas los que están en los Valles superiores ven el principio y el fin como uno solo. Más aún, no ven ni principio ni fin, y no advierten ni «primero» ni «último»24. Los que residen en la ciudad inmortal, habitantes del verde jardín, no ven ni siquiera «primero» ni «último». Huyen de todo lo primero y rechazan todo lo que es último. Pues ellos han pasado sobre los mundos de los nombres y han transpuesto los mundos de los atributos tan veloces como el relámpago. Por ello se dice: «La Unidad Absoluta excluye todos los atributos»25. Y han hecho su morada a la sombra de la Esencia.</p>",
+    "text": "Tal es el estado de los caminantes en este Valle. Mas los que están en los Valles superiores ven el principio y el fin como uno solo. Más aún, no ven ni principio ni fin, y no advierten ni «primero» ni «último»24. Los que residen en la ciudad inmortal, habitantes del verde jardín, no ven ni siquiera «primero» ni «último». Huyen de todo lo primero y rechazan todo lo que es último. Pues ellos han pasado sobre los mundos de los nombres y han transpuesto los mundos de los atributos tan veloces como el relámpago. Por ello se dice: «La Unidad Absoluta excluye todos los atributos»25. Y han hecho su morada a la sombra de la Esencia."
+  },
+  {
+    "id": "/page/25/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\" class=\"has-continuation\">Por lo cual, a propósito de esto, Khájih 'Abdu'lláh26 —que Dios el Supremo santifique su amado espíritu— explicó sutilmente</p>",
+    "text": "Por lo cual, a propósito de esto, Khájih 'Abdu'lláh26 —que Dios el Supremo santifique su amado espíritu— explicó sutilmente"
+  },
+  {
+    "id": "/page/26/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">y habló con elocuencia sobre el significado del versículo: «Guíanos por el recto sendero»27. Que es: «Muéstranos el camino correcto, o sea, hónranos con el amor de Tu Esencia, para que seamos liberados de volvernos hacia nosotros mismos y hacia todo lo que no seas Tú, y lleguemos a ser completamente Tuyos, a conocerte sólo a Ti, a verte sólo a Ti y a no pensar en nadie salvo en Ti».</p>",
+    "text": "y habló con elocuencia sobre el significado del versículo: «Guíanos por el recto sendero»27. Que es: «Muéstranos el camino correcto, o sea, hónranos con el amor de Tu Esencia, para que seamos liberados de volvernos hacia nosotros mismos y hacia todo lo que no seas Tú, y lleguemos a ser completamente Tuyos, a conocerte sólo a Ti, a verte sólo a Ti y a no pensar en nadie salvo en Ti»."
+  },
+  {
+    "id": "/page/26/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Más aún, ellos se elevan por encima de esta posición. Por lo que se dice:</p>",
+    "text": "Más aún, ellos se elevan por encima de esta posición. Por lo que se dice:"
+  },
+  {
+    "id": "/page/26/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">El amor es un velo entre el amante y el amado.</p>",
+    "text": "El amor es un velo entre el amante y el amado."
+  },
+  {
+    "id": "/page/26/Text/4",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">No me está permitido decir más. 28</p>",
+    "text": "No me está permitido decir más. 28"
+  },
+  {
+    "id": "/page/26/Text/5",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">A esta hora, el alba del conocimiento ha despuntado y se apagan los candiles del caminar y del vagar sin rumbo. 29</p>",
+    "text": "A esta hora, el alba del conocimiento ha despuntado y se apagan los candiles del caminar y del vagar sin rumbo. 29"
+  },
+  {
+    "id": "/page/26/Text/6",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Velado le era esto a Moisés pese a toda Su fuerza y Su luz;</p>",
+    "text": "Velado le era esto a Moisés pese a toda Su fuerza y Su luz;"
+  },
+  {
+    "id": "/page/27/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">entonces tú, que ni siquiera tienes alas,  no intentes volar. 30</p>",
+    "text": "entonces tú, que ni siquiera tienes alas, no intentes volar. 30"
+  },
+  {
+    "id": "/page/27/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Si eres hombre de comunión y oración, remóntate en alas de la ayuda proveniente de las Almas Santas, para que puedas contemplar los misterios del Amigo y alcanzar las luces del Bienamado. «Verdaderamente, somos de Dios y a Él regresaremos»31.</p>",
+    "text": "Si eres hombre de comunión y oración, remóntate en alas de la ayuda proveniente de las Almas Santas, para que puedas contemplar los misterios del Amigo y alcanzar las luces del Bienamado. «Verdaderamente, somos de Dios y a Él regresaremos»31."
+  },
+  {
+    "id": "/page/27/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Después de haber atravesado el Valle del Conocimiento, que es el último plano de la limitación, el caminante llega a:</p>",
+    "text": "Después de haber atravesado el Valle del Conocimiento, que es el último plano de la limitación, el caminante llega a:"
+  },
+  {
+    "id": "/page/27/Handwriting/4",
+    "block_type": "Handwriting",
+    "html": "<p>El Valle de la Unidad</p>",
+    "text": "El Valle de la Unidad"
+  },
+  {
+    "id": "/page/28/SectionHeader/0",
+    "block_type": "SectionHeader",
+    "html": "<h3>EL VALLE DE LA UNIDAD</h3>",
+    "text": "EL VALLE DE LA UNIDAD"
+  },
+  {
+    "id": "/page/28/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">bebe de la copa del Absoluto y con-&lt;br&gt;templa las Manifestaciones de la Unidad. En esta posición, traspasa los velos de la pluralidad, huye de los mundos de la carne, y asciende al cielo de la singularidad. Oye con el oído de Dios y contempla con Su ojo los misterios de la divina creación. Entra en el santuario del Amigo y, como confidente, comparte el pabellón del Bienamado. De la manga del Absoluto extiende la mano de la verdad y revela los secretos del poder. No ve en sí mismo nombre, ni reputación, ni rango, más allá de su propia alabanza de Dios. Ve, en su propio nombre, el de Dios; para él «todas las canciones vienen del Rey»&lt;sup&gt;32&lt;/sup&gt; y toda melodía procede de Él. Se sienta sobre el trono de «Decid, todo proviene de Dios»&lt;sup&gt;33&lt;/sup&gt; y descansa sobre la alfombra de «No hay poder ni fuerzas salvo en Dios»&lt;sup&gt;34&lt;/sup&gt;.</p>",
+    "text": "bebe de la copa del Absoluto y con-&lt;br&gt;templa las Manifestaciones de la Unidad. En esta posición, traspasa los velos de la pluralidad, huye de los mundos de la carne, y asciende al cielo de la singularidad. Oye con el oído de Dios y contempla con Su ojo los misterios de la divina creación. Entra en el santuario del Amigo y, como confidente, comparte el pabellón del Bienamado. De la manga del Absoluto extiende la mano de la verdad y revela los secretos del poder. No ve en sí mismo nombre, ni reputación, ni rango, más allá de su propia alabanza de Dios. Ve, en su propio nombre, el de Dios; para él «todas las canciones vienen del Rey»&lt;sup&gt;32&lt;/sup&gt; y toda melodía procede de Él. Se sienta sobre el trono de «Decid, todo proviene de Dios»&lt;sup&gt;33&lt;/sup&gt; y descansa sobre la alfombra de «No hay poder ni fuerzas salvo en Dios»&lt;sup&gt;34&lt;/sup&gt;."
+  },
+  {
+    "id": "/page/29/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Contempla todas las cosas con el ojo de la unidad, ve los rayos refulgentes del sol divino brillando por igual sobre todas las cosas creadas desde la aurora de la esencia, y ve las luces de la singularidad reflejadas sobre toda la creación.</p>",
+    "text": "Contempla todas las cosas con el ojo de la unidad, ve los rayos refulgentes del sol divino brillando por igual sobre todas las cosas creadas desde la aurora de la esencia, y ve las luces de la singularidad reflejadas sobre toda la creación."
+  },
+  {
+    "id": "/page/29/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\" class=\"has-continuation\">Es evidente a su Eminencia que todas las variaciones que contempla el caminante en las etapas de su viaje por el reino del ser proceden de su propia visión. Daremos un ejemplo de esto para que su significado quede completamente claro. Considera el sol visible: aun cuando brilla con esplendor sobre todas las cosas y él mismo confiere luz a toda la creación, por mandato del Rey de la Manifestación, en cada sitio se manifiesta y derrama su abundancia de acuerdo con la potencialidad de ese lugar. Por ejemplo, en un espejo, refleja su propio disco y forma; esto responde a la sensibilidad del espejo. En un cristal, hace que aparezca fuego, mientras que en otros objetos muestra sólo</p>",
+    "text": "Es evidente a su Eminencia que todas las variaciones que contempla el caminante en las etapas de su viaje por el reino del ser proceden de su propia visión. Daremos un ejemplo de esto para que su significado quede completamente claro. Considera el sol visible: aun cuando brilla con esplendor sobre todas las cosas y él mismo confiere luz a toda la creación, por mandato del Rey de la Manifestación, en cada sitio se manifiesta y derrama su abundancia de acuerdo con la potencialidad de ese lugar. Por ejemplo, en un espejo, refleja su propio disco y forma; esto responde a la sensibilidad del espejo. En un cristal, hace que aparezca fuego, mientras que en otros objetos muestra sólo"
+  },
+  {
+    "id": "/page/30/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">el efecto de su brillo, pero no su disco entero. Y, sin embargo, como has observado, mediante ese efecto, por mandato de su Creador, afecta a cada cosa según sus propias cualidades.</p>",
+    "text": "el efecto de su brillo, pero no su disco entero. Y, sin embargo, como has observado, mediante ese efecto, por mandato de su Creador, afecta a cada cosa según sus propias cualidades."
+  },
+  {
+    "id": "/page/30/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">De la misma manera, los colores se hacen visibles en cada objeto según su naturaleza. Por ejemplo, en una esfera amarilla, los rayos relucen amarillos; en una blanca, son blancos; y en una roja, los rayos se manifiestan rojos. Por lo tanto, estas variaciones dependen del objeto y no de la luz resplandeciente. Y si un lugar está cerrado, ya sea por paredes o por un techo, quedará completamente privado del resplandor de la luz y allí no brillará el sol.</p>",
+    "text": "De la misma manera, los colores se hacen visibles en cada objeto según su naturaleza. Por ejemplo, en una esfera amarilla, los rayos relucen amarillos; en una blanca, son blancos; y en una roja, los rayos se manifiestan rojos. Por lo tanto, estas variaciones dependen del objeto y no de la luz resplandeciente. Y si un lugar está cerrado, ya sea por paredes o por un techo, quedará completamente privado del resplandor de la luz y allí no brillará el sol."
+  },
+  {
+    "id": "/page/30/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\" class=\"has-continuation\">Es así que ciertas almas incapaces han encerrado, dentro del muro del yo y la pasión, los campos del saber, oscureciéndolos por la ignorancia y la ceguera, y han sido privados de la luz del sol místico y de los misterios del Eterno Bienamado; se han des-</p>",
+    "text": "Es así que ciertas almas incapaces han encerrado, dentro del muro del yo y la pasión, los campos del saber, oscureciéndolos por la ignorancia y la ceguera, y han sido privados de la luz del sol místico y de los misterios del Eterno Bienamado; se han des-"
+  },
+  {
+    "id": "/page/31/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">viado lejos de la engalanada sabiduría de la lúcida Fe del Señor de los Mensajeros; han sido echados del santuario de la Beldad Suprema y desterrados del Ka'bih35 del esplendor. ¡Ése es el valor de la gente de esta era!</p>",
+    "text": "viado lejos de la engalanada sabiduría de la lúcida Fe del Señor de los Mensajeros; han sido echados del santuario de la Beldad Suprema y desterrados del Ka'bih35 del esplendor. ¡Ése es el valor de la gente de esta era!"
+  },
+  {
+    "id": "/page/31/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Y si un ruiseñor36 se remontara desde la arcilla del yo y habitara en el rosedal del corazón, y con melodías árabes y dulces canciones iraníes relatara los misterios de Dios —de los cuales una sola palabra imprime vida nueva y lozana a los cuerpos de los muertos y confiere el Espíritu Santo a los huesos corruptos de la existencia—, verías mil garras de envidia y miríadas de picos de rencor dándole caza, empeñados con toda su fuerza en su muerte.</p>",
+    "text": "Y si un ruiseñor36 se remontara desde la arcilla del yo y habitara en el rosedal del corazón, y con melodías árabes y dulces canciones iraníes relatara los misterios de Dios —de los cuales una sola palabra imprime vida nueva y lozana a los cuerpos de los muertos y confiere el Espíritu Santo a los huesos corruptos de la existencia—, verías mil garras de envidia y miríadas de picos de rencor dándole caza, empeñados con toda su fuerza en su muerte."
+  },
+  {
+    "id": "/page/31/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">En verdad, al escarabajo le es repugnante una fragancia delicada, y para el hombre embotado un dulce perfume es igual a nada. Por lo cual, ha sido dicho para guía del ignorante:</p>",
+    "text": "En verdad, al escarabajo le es repugnante una fragancia delicada, y para el hombre embotado un dulce perfume es igual a nada. Por lo cual, ha sido dicho para guía del ignorante:"
+  },
+  {
+    "id": "/page/32/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Disipa el embotamiento de tu cabeza para aspirar luego el aliento de Dios. 37</p>",
+    "text": "Disipa el embotamiento de tu cabeza para aspirar luego el aliento de Dios. 37"
+  },
+  {
+    "id": "/page/32/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">En resumen, las diferencias entre objetos han quedado claras. Es así que, cuando el caminante contempla sólo el lugar de la apariencia —o sea, cuando solamente ve las esferas multicolores— percibe amarillo, rojo y blanco. De ahí que haya prevalecido el conflicto entre las criaturas y que el polvo sombrío de las almas limitadas haya cubierto el mundo; y que otros sí que se vuelvan hacia el esplendor de la luz, y que algunos hayan bebido de la unicidad. Y éstos no ven nada, sino el sol mismo.</p>",
+    "text": "En resumen, las diferencias entre objetos han quedado claras. Es así que, cuando el caminante contempla sólo el lugar de la apariencia —o sea, cuando solamente ve las esferas multicolores— percibe amarillo, rojo y blanco. De ahí que haya prevalecido el conflicto entre las criaturas y que el polvo sombrío de las almas limitadas haya cubierto el mundo; y que otros sí que se vuelvan hacia el esplendor de la luz, y que algunos hayan bebido de la unicidad. Y éstos no ven nada, sino el sol mismo."
+  },
+  {
+    "id": "/page/32/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\" class=\"has-continuation\">Así, puesto que transitan estos tres planos diferentes, han diferido el entendimiento y las palabras de los caminantes; y por lo tanto, aparece continuamente el signo del conflicto sobre la tierra. Pues hay algunos que habitan en el plano de la unicidad y hablan de ese mundo, otros ocupan los domi-</p>",
+    "text": "Así, puesto que transitan estos tres planos diferentes, han diferido el entendimiento y las palabras de los caminantes; y por lo tanto, aparece continuamente el signo del conflicto sobre la tierra. Pues hay algunos que habitan en el plano de la unicidad y hablan de ese mundo, otros ocupan los domi-"
+  },
+  {
+    "id": "/page/33/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">nios de la limitación, y algunos, los grados del yo; mientras otros, que permanecen desprovistos del esplendor de la Belleza Divina, hacen ciertas demandas, y en cada era y en cada ciclo infligen sobre el pueblo del mar de la unicidad aquello que ellos mismos merecen. «Si Dios castigara a los hombres por sus iniquidades, ¡no dejaría cosa viviente sobre la tierra! Mas Él les da plazo hasta un tiempo señalado ...»<sup>38</sup></p>",
+    "text": "nios de la limitación, y algunos, los grados del yo; mientras otros, que permanecen desprovistos del esplendor de la Belleza Divina, hacen ciertas demandas, y en cada era y en cada ciclo infligen sobre el pueblo del mar de la unicidad aquello que ellos mismos merecen. «Si Dios castigara a los hombres por sus iniquidades, ¡no dejaría cosa viviente sobre la tierra! Mas Él les da plazo hasta un tiempo señalado ...» 38"
+  },
+  {
+    "id": "/page/33/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">¡Oh hermano Mío! Un corazón puro es como un espejo; purifícalo con el bruñido del amor y el desprendimiento de todo salvo Dios, para que en él pueda brillar el sol verdadero y despuntar el alba eterna. Entonces, verás claramente el significado de «Ni mi tierra ni mi cielo me contienen, pero sí el corazón de mi siervo fiel»39. Y tomarás tu vida en tus manos y, con infinito anhelo, la depositarás ante el nuevo Bienamado.</p>",
+    "text": "¡Oh hermano Mío! Un corazón puro es como un espejo; purifícalo con el bruñido del amor y el desprendimiento de todo salvo Dios, para que en él pueda brillar el sol verdadero y despuntar el alba eterna. Entonces, verás claramente el significado de «Ni mi tierra ni mi cielo me contienen, pero sí el corazón de mi siervo fiel»39. Y tomarás tu vida en tus manos y, con infinito anhelo, la depositarás ante el nuevo Bienamado."
+  },
+  {
+    "id": "/page/33/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\" class=\"has-continuation\">Tan pronto como la Manifestación del Rey de la Unicidad desciende sobre el trono</p>",
+    "text": "Tan pronto como la Manifestación del Rey de la Unicidad desciende sobre el trono"
+  },
+  {
+    "id": "/page/34/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">del corazón y el alma, Su brillo se hace visible en cada miembro y extremidad. En ese momento, desde la oscuridad, brilla el misterio de la afamada tradición: «Un siervo es atraído hacia Mí en oración hasta que Yo le respondo y, cuando le he respondido, Me convierto en el oído con el cual oye...». Pues de este modo ha aparecido el Amo de la casa dentro de Su hogar, y todos los pilares de la morada resplandecen con Su luz. Y la acción y el efecto de la luz vienen de Aquél que da luz; por ello, todos actúan por medio de Él y se levantan por Su voluntad. Y éste es aquel manantial del cual beben los íntimos, tal como está dicho: «Una fuente de la cual beberán los íntimos de Dios...»40.</p>",
+    "text": "del corazón y el alma, Su brillo se hace visible en cada miembro y extremidad. En ese momento, desde la oscuridad, brilla el misterio de la afamada tradición: «Un siervo es atraído hacia Mí en oración hasta que Yo le respondo y, cuando le he respondido, Me convierto en el oído con el cual oye...». Pues de este modo ha aparecido el Amo de la casa dentro de Su hogar, y todos los pilares de la morada resplandecen con Su luz. Y la acción y el efecto de la luz vienen de Aquél que da luz; por ello, todos actúan por medio de Él y se levantan por Su voluntad. Y éste es aquel manantial del cual beben los íntimos, tal como está dicho: «Una fuente de la cual beberán los íntimos de Dios...»40."
+  },
+  {
+    "id": "/page/34/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Empero, que nadie interprete estas declaraciones como antropomorfismos, ni vea en ellas el descenso de los mundos de Dios a los niveles de las criaturas; como tampoco deberían llevar a Vuestra Eminencia a tales suposiciones. Porque, en Su Esencia, Dios</p>",
+    "text": "Empero, que nadie interprete estas declaraciones como antropomorfismos, ni vea en ellas el descenso de los mundos de Dios a los niveles de las criaturas; como tampoco deberían llevar a Vuestra Eminencia a tales suposiciones. Porque, en Su Esencia, Dios"
+  },
+  {
+    "id": "/page/35/Caption/0",
+    "block_type": "Caption",
+    "html": "<p>LOS SIETE VALLES</p>",
+    "text": "LOS SIETE VALLES"
+  },
+  {
+    "id": "/page/35/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">está santificado por encima de ascenso o descenso, de entrada o salida; por toda la eternidad Él ha estado —y lo seguirá estando— libre de los atributos de las criaturas humanas. Ningún hombre le conoció jamás, ni alma alguna ha encontrado la senda hacia Su Ser. Todo conocedor místico ha vagado, perdido, por el valle de Su conocimiento; todo santo ha perdido su camino buscando comprender Su Esencia. Santificado es Él por encima de la comprensión del sabio; exaltado es Él por encima del conocimiento del erudito. El camino está vedado y buscarlo es impiedad; Su prueba son sus signos y Su Ser es Su evidencia41.</p>",
+    "text": "está santificado por encima de ascenso o descenso, de entrada o salida; por toda la eternidad Él ha estado —y lo seguirá estando— libre de los atributos de las criaturas humanas. Ningún hombre le conoció jamás, ni alma alguna ha encontrado la senda hacia Su Ser. Todo conocedor místico ha vagado, perdido, por el valle de Su conocimiento; todo santo ha perdido su camino buscando comprender Su Esencia. Santificado es Él por encima de la comprensión del sabio; exaltado es Él por encima del conocimiento del erudito. El camino está vedado y buscarlo es impiedad; Su prueba son sus signos y Su Ser es Su evidencia41."
+  },
+  {
+    "id": "/page/35/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\" class=\"has-continuation\">Por lo cual, los amantes del rostro del Bienamado han dicho: «¡Oh Tú, Aquél cuya esencia es el único camino hacia Su Esencia, y Quien está santificado sobre toda semejanza con Sus criaturas!»<sup>42</sup>. ¿Cómo puede la nada absoluta galopar en su corcel por el campo de la preexistencia o una sombra efí-</p>",
+    "text": "Por lo cual, los amantes del rostro del Bienamado han dicho: «¡Oh Tú, Aquél cuya esencia es el único camino hacia Su Esencia, y Quien está santificado sobre toda semejanza con Sus criaturas!» 42 . ¿Cómo puede la nada absoluta galopar en su corcel por el campo de la preexistencia o una sombra efí-"
+  },
+  {
+    "id": "/page/36/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">mera alcanzar el sol sempiterno? El Amigo43 ha dicho: «Si no fuera por Ti, no Te hubiéramos conocido», y ha dicho el Bienamado44: «Ni alcanzado Tu presencia».</p>",
+    "text": "mera alcanzar el sol sempiterno? El Amigo43 ha dicho: «Si no fuera por Ti, no Te hubiéramos conocido», y ha dicho el Bienamado44: «Ni alcanzado Tu presencia»."
+  },
+  {
+    "id": "/page/36/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Por cierto, lo que ha sido mencionado acerca de los grados del conocimiento se refiere al conocimiento de las Manifestaciones de aquel Sol de la Realidad, el cual derrama Su luz sobre los Espejos. Y el resplandor de esa luz está en los corazones, mas permanece oculto bajo los velos del sentido y las condiciones de esta tierra, igual que una vela en un farol de hierro, y sólo cuando se lo libera de éste puede brillar su luz.</p>",
+    "text": "Por cierto, lo que ha sido mencionado acerca de los grados del conocimiento se refiere al conocimiento de las Manifestaciones de aquel Sol de la Realidad, el cual derrama Su luz sobre los Espejos. Y el resplandor de esa luz está en los corazones, mas permanece oculto bajo los velos del sentido y las condiciones de esta tierra, igual que una vela en un farol de hierro, y sólo cuando se lo libera de éste puede brillar su luz."
+  },
+  {
+    "id": "/page/36/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">De la misma manera, cuando quites de tu corazón las envolturas de la ilusión, se manifestarán las luces de la unicidad.</p>",
+    "text": "De la misma manera, cuando quites de tu corazón las envolturas de la ilusión, se manifestarán las luces de la unicidad."
+  },
+  {
+    "id": "/page/36/Text/4",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\" class=\"has-continuation\">Está claro, pues, que ni aun para los rayos existe entrada y salida, cuánto menos para aquella Esencia del Ser y aquel Misterio anhelado. ¡Oh Hermano Mío!, recorre estos planos con espíritu de búsqueda, no de</p>",
+    "text": "Está claro, pues, que ni aun para los rayos existe entrada y salida, cuánto menos para aquella Esencia del Ser y aquel Misterio anhelado. ¡Oh Hermano Mío!, recorre estos planos con espíritu de búsqueda, no de"
+  },
+  {
+    "id": "/page/37/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">ciega imitación. El verdadero caminante no será detenido por el mazo de las palabras ni excluido por la advertencia de las insinuaciones.</p>",
+    "text": "ciega imitación. El verdadero caminante no será detenido por el mazo de las palabras ni excluido por la advertencia de las insinuaciones."
+  },
+  {
+    "id": "/page/37/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">¿Cómo podrá una cortina dividir a los amantes?</p>",
+    "text": "¿Cómo podrá una cortina dividir a los amantes?"
+  },
+  {
+    "id": "/page/37/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">¡Aun la muralla de Alejandro fallaría!45</p>",
+    "text": "¡Aun la muralla de Alejandro fallaría!45"
+  },
+  {
+    "id": "/page/37/Text/4",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Los secretos son muchos, pero los extraños son innumerables. No bastarían  volúmenes para contener el misterio del Bienamado, ni podría ser agotado en estas páginas, aunque no sea más que una palabra, ni siquiera un signo. «El conocimiento es un punto único, mas los ignorantes lo han multiplicado»46.</p>",
+    "text": "Los secretos son muchos, pero los extraños son innumerables. No bastarían volúmenes para contener el misterio del Bienamado, ni podría ser agotado en estas páginas, aunque no sea más que una palabra, ni siquiera un signo. «El conocimiento es un punto único, mas los ignorantes lo han multiplicado»46."
+  },
+  {
+    "id": "/page/37/Text/5",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\" class=\"has-continuation\">Sobre esto, reflexiona también acerca de las diferencias entre los mundos. Aunque los mundos divinos no tengan fin, algunos se refieren a ellos como si fueran cuatro: el mundo del tiempo (<i>zamán</i>), un mundo que tiene tan-</p>",
+    "text": "Sobre esto, reflexiona también acerca de las diferencias entre los mundos. Aunque los mundos divinos no tengan fin, algunos se refieren a ellos como si fueran cuatro: el mundo del tiempo ( zamán ), un mundo que tiene tan-"
+  },
+  {
+    "id": "/page/38/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">to un principio como un fin; el mundo de la duración (<i>dahr</i>), el cual tiene un principio pero cuyo fin no está revelado; el mundo de la perpetuidad (<i>sarmad</i>), cuyo principio no puede verse pero del cual se sabe que tiene un final; y el mundo de la eternidad (<i>azal</i>), del cual no son visibles ni el principio ni el fin. A pesar de existir muchas y diferentes aseveraciones sobre estos puntos, resultaría tedioso narrarlas en detalle. Algunos han dicho que el mundo de la perpetuidad no tiene ni principio ni fin, y han llamado al mundo de la eternidad el Empíreo invisible e impenetrable. Otros los han llamado los mundos de la Corte Celestial (Láhút), del Cielo Empíreo (Jabarút), del Reino de los Ángeles (Malakút) y del mundo mortal (Násút).</p>",
+    "text": "to un principio como un fin; el mundo de la duración ( dahr ), el cual tiene un principio pero cuyo fin no está revelado; el mundo de la perpetuidad ( sarmad ), cuyo principio no puede verse pero del cual se sabe que tiene un final; y el mundo de la eternidad ( azal ), del cual no son visibles ni el principio ni el fin. A pesar de existir muchas y diferentes aseveraciones sobre estos puntos, resultaría tedioso narrarlas en detalle. Algunos han dicho que el mundo de la perpetuidad no tiene ni principio ni fin, y han llamado al mundo de la eternidad el Empíreo invisible e impenetrable. Otros los han llamado los mundos de la Corte Celestial (Láhút), del Cielo Empíreo (Jabarút), del Reino de los Ángeles (Malakút) y del mundo mortal (Násút)."
+  },
+  {
+    "id": "/page/38/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Se considera que son cuatro las jornadas en el sendero del amor: de los seres creados al Verdadero; del Verdadero a los seres creados; de las criaturas entre sí; y del Verdadero hacia Sí Mismo.</p>",
+    "text": "Se considera que son cuatro las jornadas en el sendero del amor: de los seres creados al Verdadero; del Verdadero a los seres creados; de las criaturas entre sí; y del Verdadero hacia Sí Mismo."
+  },
+  {
+    "id": "/page/39/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Existen otras muchas aseveraciones de visionarios místicos y teólogos de antaño que no he mencionado aquí, pues me desagrada citar copiosamente de los dichos del pasado, ya que usar las palabras de otros demuestra conocimiento adquirido y no el don divino. Aun lo que hemos citado aquí fue en deferencia al capricho de los hombres y a la modalidad de los amigos. Además, tales temas están más allá del propósito de esta epístola. Nuestra renuencia a hablar de sus dichos no es orgullo, sino más bien una manifestación de sabiduría y una demostración de benevolencia.</p>",
+    "text": "Existen otras muchas aseveraciones de visionarios místicos y teólogos de antaño que no he mencionado aquí, pues me desagrada citar copiosamente de los dichos del pasado, ya que usar las palabras de otros demuestra conocimiento adquirido y no el don divino. Aun lo que hemos citado aquí fue en deferencia al capricho de los hombres y a la modalidad de los amigos. Además, tales temas están más allá del propósito de esta epístola. Nuestra renuencia a hablar de sus dichos no es orgullo, sino más bien una manifestación de sabiduría y una demostración de benevolencia."
+  },
+  {
+    "id": "/page/39/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Si dejó Khid.r hundirse la barca en el mar, aun en este error hay mil aciertos. 47</p>",
+    "text": "Si dejó Khid.r hundirse la barca en el mar, aun en este error hay mil aciertos. 47"
+  },
+  {
+    "id": "/page/39/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\" class=\"has-continuation\">Pues de otro modo este Siervo se considera completamente perdido y como la nada, comparado con uno de los amados de Dios. Y menos aún en la presencia de Sus</p>",
+    "text": "Pues de otro modo este Siervo se considera completamente perdido y como la nada, comparado con uno de los amados de Dios. Y menos aún en la presencia de Sus"
+  },
+  {
+    "id": "/page/40/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">santos. ¡Exaltado sea Mi Señor, el Supremo! Es más, nuestro objetivo es describir las etapas de la jornada del caminante, y no presentar las aseveraciones contradictorias de los místicos.</p>",
+    "text": "santos. ¡Exaltado sea Mi Señor, el Supremo! Es más, nuestro objetivo es describir las etapas de la jornada del caminante, y no presentar las aseveraciones contradictorias de los místicos."
+  },
+  {
+    "id": "/page/40/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\" class=\"has-continuation\">No obstante haber dado ya un breve ejemplo concerniente al principio y final del mundo relativo, del mundo de los atributos, se agrega ahora una segunda ilustración para que sea puesto de manifiesto su significado más acabado. Por ejemplo, que su Eminencia se considere a sí mismo; con relación a tu hijo eres primero, pero último con relación a tu padre. En tu apariencia externa, das cuenta de la aparición del poder en los reinos de la creación divina; en tu ser interior revelas los misterios ocultos que son la fe divina depositada en ti. Y entonces, en el sentido ya mencionado, se aplica a ti lo que es primero y lo que es último, lo externo e interno, para que en estos cuatro estados que te fueron conferidos puedas comprender los cuatro</p>",
+    "text": "No obstante haber dado ya un breve ejemplo concerniente al principio y final del mundo relativo, del mundo de los atributos, se agrega ahora una segunda ilustración para que sea puesto de manifiesto su significado más acabado. Por ejemplo, que su Eminencia se considere a sí mismo; con relación a tu hijo eres primero, pero último con relación a tu padre. En tu apariencia externa, das cuenta de la aparición del poder en los reinos de la creación divina; en tu ser interior revelas los misterios ocultos que son la fe divina depositada en ti. Y entonces, en el sentido ya mencionado, se aplica a ti lo que es primero y lo que es último, lo externo e interno, para que en estos cuatro estados que te fueron conferidos puedas comprender los cuatro"
+  },
+  {
+    "id": "/page/41/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">estados divinos, y para que sobre todas las ramas visibles o escondidas del rosal de la existencia, el ruiseñor de tu corazón pueda cantar: «Él es el primero y el último, el Visible y el Oculto...»48.</p>",
+    "text": "estados divinos, y para que sobre todas las ramas visibles o escondidas del rosal de la existencia, el ruiseñor de tu corazón pueda cantar: «Él es el primero y el último, el Visible y el Oculto...»48."
+  },
+  {
+    "id": "/page/41/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Debido a las limitaciones de los hombres, estas afirmaciones son hechas en la esfera de lo relativo. Por otra parte, aquellos personajes que de un solo paso han atravesado el mundo de lo relativo y lo limitado, y han habitado en el plano luminoso del Absoluto, y han levantado su tienda en los mundos de la autoridad y del mandato, con una sola chispa han consumido estas relatividades, y con una gota de rocío han borrado estas palabras. Y nadan en el océano del espíritu, y se remontan al sagrado cielo de luz. En este plano, entonces, ¿qué vida tienen palabras como «primero» o «último» y otras como aquellas vistas o mencionadas? En este dominio, lo primero es lo último mismo, y lo último no es sino lo primero.</p>",
+    "text": "Debido a las limitaciones de los hombres, estas afirmaciones son hechas en la esfera de lo relativo. Por otra parte, aquellos personajes que de un solo paso han atravesado el mundo de lo relativo y lo limitado, y han habitado en el plano luminoso del Absoluto, y han levantado su tienda en los mundos de la autoridad y del mandato, con una sola chispa han consumido estas relatividades, y con una gota de rocío han borrado estas palabras. Y nadan en el océano del espíritu, y se remontan al sagrado cielo de luz. En este plano, entonces, ¿qué vida tienen palabras como «primero» o «último» y otras como aquellas vistas o mencionadas? En este dominio, lo primero es lo último mismo, y lo último no es sino lo primero."
+  },
+  {
+    "id": "/page/42/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Haz un fuego de amor en tu alma, y quema todo pensamiento y toda palabra. 49</p>",
+    "text": "Haz un fuego de amor en tu alma, y quema todo pensamiento y toda palabra. 49"
+  },
+  {
+    "id": "/page/42/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">¡Oh amigo mío! Mírate: si no hubieras sido padre ni engendrado un hijo, tampoco hubieras escuchado estos dichos. Ahora olvídalos todos, para que puedas aprender del Maestro del Amor en la escuela de la unicidad y volver a Dios, y abandona la tierra interior de la irrealidad50 por tu verdadera posición, y habita bajo la sombra del árbol del conocimiento.</p>",
+    "text": "¡Oh amigo mío! Mírate: si no hubieras sido padre ni engendrado un hijo, tampoco hubieras escuchado estos dichos. Ahora olvídalos todos, para que puedas aprender del Maestro del Amor en la escuela de la unicidad y volver a Dios, y abandona la tierra interior de la irrealidad50 por tu verdadera posición, y habita bajo la sombra del árbol del conocimiento."
+  },
+  {
+    "id": "/page/42/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">¡Oh tú, amado! Empobrécete para que puedas entrar en la excelsa corte de las riquezas; e inclina tu espalda para que puedas beber del río de la gloria y alcanzar el verdadero significado de los poemas acerca de los cuales has preguntado.</p>",
+    "text": "¡Oh tú, amado! Empobrécete para que puedas entrar en la excelsa corte de las riquezas; e inclina tu espalda para que puedas beber del río de la gloria y alcanzar el verdadero significado de los poemas acerca de los cuales has preguntado."
+  },
+  {
+    "id": "/page/42/Text/4",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\" class=\"has-continuation\">Queda aclarado, pues, que estas etapas dependen de la visión del caminante. En cada ciudad contemplará un mundo, en cada Valle alcanzará un manantial, en cada prado</p>",
+    "text": "Queda aclarado, pues, que estas etapas dependen de la visión del caminante. En cada ciudad contemplará un mundo, en cada Valle alcanzará un manantial, en cada prado"
+  },
+  {
+    "id": "/page/43/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">escuchará una canción. Mas el halcón del cielo místico tiene en Su pecho más de un maravilloso cántico del espíritu, y el ave persa guarda en Su alma más de una dulce melodía árabe; pero están ocultas y ocultas permanecerán.</p>",
+    "text": "escuchará una canción. Mas el halcón del cielo místico tiene en Su pecho más de un maravilloso cántico del espíritu, y el ave persa guarda en Su alma más de una dulce melodía árabe; pero están ocultas y ocultas permanecerán."
+  },
+  {
+    "id": "/page/43/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Si hablo, muchas mentes se harán añicos, y si escribo, muchas plumas se quebrarán. 51</p>",
+    "text": "Si hablo, muchas mentes se harán añicos, y si escribo, muchas plumas se quebrarán. 51"
+  },
+  {
+    "id": "/page/43/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">La paz sea con aquel que concluya esta exaltada jornada y siga al Verdadero a través de las luces de guía.</p>",
+    "text": "La paz sea con aquel que concluya esta exaltada jornada y siga al Verdadero a través de las luces de guía."
+  },
+  {
+    "id": "/page/43/Text/4",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Y después de atravesar los elevados planos de este viaje celestial, el caminante entra en:</p>",
+    "text": "Y después de atravesar los elevados planos de este viaje celestial, el caminante entra en:"
+  },
+  {
+    "id": "/page/43/Handwriting/5",
+    "block_type": "Handwriting",
+    "html": "<p>El Valle del Contento</p>",
+    "text": "El Valle del Contento"
+  },
+  {
+    "id": "/page/44/SectionHeader/0",
+    "block_type": "SectionHeader",
+    "html": "<h3>EL VALLE DEL CONTENTO</h3>",
+    "text": "EL VALLE DEL CONTENTO"
+  },
+  {
+    "id": "/page/44/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">n este Valle, siente las brisas del con-<math display=\"inline\">\\mathfrak{O}</math> tento divino soplando desde el plano del espíritu. Quema los velos del deseo y, con el ojo interior y exterior, percibe dentro y fuera de todas las cosas el día del «Dios compensará a cada uno desde Su abundancia»&lt;sup&gt;52&lt;/sup&gt;</p>",
+    "text": "n este Valle, siente las brisas del con- \\mathfrak{O} tento divino soplando desde el plano del espíritu. Quema los velos del deseo y, con el ojo interior y exterior, percibe dentro y fuera de todas las cosas el día del «Dios compensará a cada uno desde Su abundancia»&lt;sup&gt;52&lt;/sup&gt;"
+  },
+  {
+    "id": "/page/44/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">De la congoja pasa al arrobamiento, de la angustia al regocijo. Su aflicción y su dolor ceden paso al deleite y al embeleso.</p>",
+    "text": "De la congoja pasa al arrobamiento, de la angustia al regocijo. Su aflicción y su dolor ceden paso al deleite y al embeleso."
+  },
+  {
+    "id": "/page/44/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Aunque en apariencia en este Valle los caminantes pueden habitar en el polvo, interiormente están entronizados en las alturas del significado místico; se alimentan de las ilimitadas mercedes de los significados interiores, y beben los delicados vinos del espíritu.</p>",
+    "text": "Aunque en apariencia en este Valle los caminantes pueden habitar en el polvo, interiormente están entronizados en las alturas del significado místico; se alimentan de las ilimitadas mercedes de los significados interiores, y beben los delicados vinos del espíritu."
+  },
+  {
+    "id": "/page/44/Text/4",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\" class=\"has-continuation\">La lengua es impotente para describir estos tres Valles, y la palabra resulta inade-</p>",
+    "text": "La lengua es impotente para describir estos tres Valles, y la palabra resulta inade-"
+  },
+  {
+    "id": "/page/45/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">cuada. La pluma no entra en esta región, y la tinta deja sólo un borrón. En estos planos, el ruiseñor del corazón tiene otros cantos y secretos que conmueven al corazón, y hacen exclamar al alma, mas este misterio del significado íntimo sólo puede ser susurrado de corazón a corazón, confiado sólo de pecho a pecho.</p>",
+    "text": "cuada. La pluma no entra en esta región, y la tinta deja sólo un borrón. En estos planos, el ruiseñor del corazón tiene otros cantos y secretos que conmueven al corazón, y hacen exclamar al alma, mas este misterio del significado íntimo sólo puede ser susurrado de corazón a corazón, confiado sólo de pecho a pecho."
+  },
+  {
+    "id": "/page/45/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Del éxtasis de los sabios místicos sólo se puede hablar de corazón a corazón. Ningún mensajero puede contarlo, ni misiva contenerlo. 53</p>",
+    "text": "Del éxtasis de los sabios místicos sólo se puede hablar de corazón a corazón. Ningún mensajero puede contarlo, ni misiva contenerlo. 53"
+  },
+  {
+    "id": "/page/45/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Estoy mudo de flaqueza en muchos asuntos pues mis palabras no podrían contarlos y mi expresión fallaría. 54</p>",
+    "text": "Estoy mudo de flaqueza en muchos asuntos pues mis palabras no podrían contarlos y mi expresión fallaría. 54"
+  },
+  {
+    "id": "/page/45/Text/4",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\" class=\"has-continuation\">¡Oh amigo! Hasta que hayas entrado en el jardín de tales misterios no beberás del vino inmortal de este Valle. Y si hubieras de gustarlo, cerrarás tus ojos a todo lo demás y</p>",
+    "text": "¡Oh amigo! Hasta que hayas entrado en el jardín de tales misterios no beberás del vino inmortal de este Valle. Y si hubieras de gustarlo, cerrarás tus ojos a todo lo demás y"
+  },
+  {
+    "id": "/page/46/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">beberás del vino del contento; te librarás de todo y te atarás a Él, ofrecerás tu vida en Su sendero, abandonando tu alma. Mas no hay otro en esta región al que necesites olvidar: «Dios estaba allí, mas nada había a Su lado»55. Pues en este plano el viajero ve en todo la belleza del Amigo. Aun en el fuego ve el rostro del Bienamado. En la ilusión, contempla el secreto de la realidad y lee en los atributos el enigma de la Esencia. Ha consumido los velos con sus suspiros, y de una sola mirada ha apartado las mortajas, con ojo avizor contempla la nueva creación, y con lúcido corazón comprende las verdades sutiles. Esto está suficientemente confirmado por: «Y aguda hemos hecho tu vista en este día»56. Después de recorrer los planos del contento más puro, el caminante llega a:</p>",
+    "text": "beberás del vino del contento; te librarás de todo y te atarás a Él, ofrecerás tu vida en Su sendero, abandonando tu alma. Mas no hay otro en esta región al que necesites olvidar: «Dios estaba allí, mas nada había a Su lado»55. Pues en este plano el viajero ve en todo la belleza del Amigo. Aun en el fuego ve el rostro del Bienamado. En la ilusión, contempla el secreto de la realidad y lee en los atributos el enigma de la Esencia. Ha consumido los velos con sus suspiros, y de una sola mirada ha apartado las mortajas, con ojo avizor contempla la nueva creación, y con lúcido corazón comprende las verdades sutiles. Esto está suficientemente confirmado por: «Y aguda hemos hecho tu vista en este día»56. Después de recorrer los planos del contento más puro, el caminante llega a:"
+  },
+  {
+    "id": "/page/46/Handwriting/2",
+    "block_type": "Handwriting",
+    "html": "<p>El Valle del Asombro</p>",
+    "text": "El Valle del Asombro"
+  },
+  {
+    "id": "/page/47/SectionHeader/0",
+    "block_type": "SectionHeader",
+    "html": "<h3>EL VALLE DEL ASOMBRO</h3>",
+    "text": "EL VALLE DEL ASOMBRO"
+  },
+  {
+    "id": "/page/47/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">es lanzado al océano de la grandeza, creciendo su asombro a cada instante. Ahora ve la condición de riqueza como la misma pobreza y la esencia de la libertad como impotencia cabal. Ahora queda atónito ante la belleza del Todo Glorioso y nuevamente se siente cansado de su propia vida. ¡Cuántos árboles arrancó el torbellino de admiración, cuánta alma dejó exhausta! Porque en este Valle el viajero se ve envuelto en la confusión, aunque, a los ojos de aquel que lo alcanzó, tales maravillas sean apreciadas y bienamadas. A cada momento contempla un mundo maravilloso, una nueva creación, va de asombro en asombro, y queda anonadado ante las obras del Señor de la Unidad.</p>",
+    "text": "es lanzado al océano de la grandeza, creciendo su asombro a cada instante. Ahora ve la condición de riqueza como la misma pobreza y la esencia de la libertad como impotencia cabal. Ahora queda atónito ante la belleza del Todo Glorioso y nuevamente se siente cansado de su propia vida. ¡Cuántos árboles arrancó el torbellino de admiración, cuánta alma dejó exhausta! Porque en este Valle el viajero se ve envuelto en la confusión, aunque, a los ojos de aquel que lo alcanzó, tales maravillas sean apreciadas y bienamadas. A cada momento contempla un mundo maravilloso, una nueva creación, va de asombro en asombro, y queda anonadado ante las obras del Señor de la Unidad."
+  },
+  {
+    "id": "/page/47/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\" class=\"has-continuation\">Por cierto, oh hermano, si ponderamos cada cosa, seremos testigos de una miríada de sabidurías perfectas y aprenderemos una</p>",
+    "text": "Por cierto, oh hermano, si ponderamos cada cosa, seremos testigos de una miríada de sabidurías perfectas y aprenderemos una"
+  },
+  {
+    "id": "/page/48/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">miríada de verdades nuevas y maravillosas. Uno de los fenómenos creados es el sueño. Mira cuántos secretos hay depositados en él, cuánta sabiduría atesora, cuántos mundos encierra. Observa cómo estando dormido en una habitación y con sus puertas cerradas, de pronto te encuentras en una ciudad lejana, a la que entras sin mover los pies ni cansar tu cuerpo; ves sin usar tus ojos, escuchas sin aguzar los oídos y hablas sin lengua. Y quizá, cuando hayan pasado diez años, presenciarás en el mundo exterior lo mismo que soñaste esta noche.</p>",
+    "text": "miríada de verdades nuevas y maravillosas. Uno de los fenómenos creados es el sueño. Mira cuántos secretos hay depositados en él, cuánta sabiduría atesora, cuántos mundos encierra. Observa cómo estando dormido en una habitación y con sus puertas cerradas, de pronto te encuentras en una ciudad lejana, a la que entras sin mover los pies ni cansar tu cuerpo; ves sin usar tus ojos, escuchas sin aguzar los oídos y hablas sin lengua. Y quizá, cuando hayan pasado diez años, presenciarás en el mundo exterior lo mismo que soñaste esta noche."
+  },
+  {
+    "id": "/page/48/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\" class=\"has-continuation\">Ahora bien, son muchas las sabidurías a ponderar en el sueño cuya verdadera naturaleza nadie sino la gente de este Valle puede comprender. Primero, ¿cómo es este mundo donde sin ojo, sin oído, sin mano y sin lengua un hombre se sirve de todos ellos? Considera la diferencia entre estos dos mundos y los misterios que encierran, para que puedas alcanzar las confirmaciones divinas</p>",
+    "text": "Ahora bien, son muchas las sabidurías a ponderar en el sueño cuya verdadera naturaleza nadie sino la gente de este Valle puede comprender. Primero, ¿cómo es este mundo donde sin ojo, sin oído, sin mano y sin lengua un hombre se sirve de todos ellos? Considera la diferencia entre estos dos mundos y los misterios que encierran, para que puedas alcanzar las confirmaciones divinas"
+  },
+  {
+    "id": "/page/49/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">y los descubrimientos celestiales, y penetrar en las regiones de la santidad.</p>",
+    "text": "y los descubrimientos celestiales, y penetrar en las regiones de la santidad."
+  },
+  {
+    "id": "/page/49/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Dios, el Eminente, ha puesto estos signos en los hombres con el fin de que los filósofos no puedan negar los misterios de la vida del más allá, ni rebajar lo que les ha sido prometido. Pues algunos se aferran a la razón y niegan lo que ésta no puede comprender y, sin embargo, las mentes débiles no pueden jamás aprehender los asuntos a que nos hemos referido. Sólo la Suprema y Divina Inteligencia puede comprendernos:</p>",
+    "text": "Dios, el Eminente, ha puesto estos signos en los hombres con el fin de que los filósofos no puedan negar los misterios de la vida del más allá, ni rebajar lo que les ha sido prometido. Pues algunos se aferran a la razón y niegan lo que ésta no puede comprender y, sin embargo, las mentes débiles no pueden jamás aprehender los asuntos a que nos hemos referido. Sólo la Suprema y Divina Inteligencia puede comprendernos:"
+  },
+  {
+    "id": "/page/49/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">¿Cómo puede la débil razón abarcar el Corán o la araña atrapar al fénix en su tela?57</p>",
+    "text": "¿Cómo puede la débil razón abarcar el Corán o la araña atrapar al fénix en su tela?57"
+  },
+  {
+    "id": "/page/49/Text/4",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\" class=\"has-continuation\">Todos estos estados han de ser experimentados en el Valle del Asombro, y a cada instante el caminante busca más, sin fatigarse. Así, el Señor de lo Primero y lo Último58, al exponer los grados de la contemplación,</p>",
+    "text": "Todos estos estados han de ser experimentados en el Valle del Asombro, y a cada instante el caminante busca más, sin fatigarse. Así, el Señor de lo Primero y lo Último58, al exponer los grados de la contemplación,"
+  },
+  {
+    "id": "/page/50/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">dijo admirado: «¡Oh Señor, aumenta mi asombro por Ti!».</p>",
+    "text": "dijo admirado: «¡Oh Señor, aumenta mi asombro por Ti!»."
+  },
+  {
+    "id": "/page/50/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Asimismo, reflexiona sobre la perfección de la creación del hombre, en el cual están replegados y ocultos todos estos planos y condiciones.</p>",
+    "text": "Asimismo, reflexiona sobre la perfección de la creación del hombre, en el cual están replegados y ocultos todos estos planos y condiciones."
+  },
+  {
+    "id": "/page/50/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">¿Te consideras sólo una débil forma, cuando dentro de ti está plegado el universo?59</p>",
+    "text": "¿Te consideras sólo una débil forma, cuando dentro de ti está plegado el universo?59"
+  },
+  {
+    "id": "/page/50/Text/4",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Por consiguiente, debemos esforzarnos por destruir la condición animal hasta que el significado de lo humano haya salido a la luz.</p>",
+    "text": "Por consiguiente, debemos esforzarnos por destruir la condición animal hasta que el significado de lo humano haya salido a la luz."
+  },
+  {
+    "id": "/page/50/Text/5",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\" class=\"has-continuation\">Es así que también Luqmán, que había bebido del manantial de la sabiduría y gustado del agua de misericordia, al probarle a su Nathan los planos de resurrección y de muerte, le explicó el sueño como evidencia y ejemplo. Lo narramos aquí para que, a través de este Siervo evanescente, pueda perdurar un recuerdo de aquel joven de la</p>",
+    "text": "Es así que también Luqmán, que había bebido del manantial de la sabiduría y gustado del agua de misericordia, al probarle a su Nathan los planos de resurrección y de muerte, le explicó el sueño como evidencia y ejemplo. Lo narramos aquí para que, a través de este Siervo evanescente, pueda perdurar un recuerdo de aquel joven de la"
+  },
+  {
+    "id": "/page/51/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">escuela de la Divina Unidad, aquel decano del arte de la instrucción y lo Absoluto. Dijo: «Oh hijo, si eres capaz de no dormir, también serás capaz de no morir; y si puedes no despertar después del sueño, también podrás no levantarte después de la muerte».</p>",
+    "text": "escuela de la Divina Unidad, aquel decano del arte de la instrucción y lo Absoluto. Dijo: «Oh hijo, si eres capaz de no dormir, también serás capaz de no morir; y si puedes no despertar después del sueño, también podrás no levantarte después de la muerte»."
+  },
+  {
+    "id": "/page/51/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Oh amigo, el corazón es la morada de los misterios eternos, no la conviertas en hogar de caprichos pasajeros; ni derroches el tesoro de tu preciada vida ocupándolo en este mundo fugaz. Provienes del mundo de la santidad, no ates tu corazón a la tierra; eres morador de la corte de la cercanía, no prefieras la patria del polvo.</p>",
+    "text": "Oh amigo, el corazón es la morada de los misterios eternos, no la conviertas en hogar de caprichos pasajeros; ni derroches el tesoro de tu preciada vida ocupándolo en este mundo fugaz. Provienes del mundo de la santidad, no ates tu corazón a la tierra; eres morador de la corte de la cercanía, no prefieras la patria del polvo."
+  },
+  {
+    "id": "/page/51/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">En suma, la descripción de estos estados no tiene fin, pero por las injurias infligidas por las gentes de esta tierra, este Siervo no tiene ánimo para continuar:</p>",
+    "text": "En suma, la descripción de estos estados no tiene fin, pero por las injurias infligidas por las gentes de esta tierra, este Siervo no tiene ánimo para continuar:"
+  },
+  {
+    "id": "/page/51/Text/4",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">El relato está aún inconcluso y estoy desanimado.</p>",
+    "text": "El relato está aún inconcluso y estoy desanimado."
+  },
+  {
+    "id": "/page/51/Text/5",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Te ruego, entonces, que me perdones. 60</p>",
+    "text": "Te ruego, entonces, que me perdones. 60"
+  },
+  {
+    "id": "/page/52/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Gime la pluma y la tinta derrama lágrimas, el río61 del corazón se agita con ondas de sangre. «Nada puede suceder, salvo aquello que Dios nos ha destinado»62. ¡La paz sea con aquél que sigue el Recto Sendero!</p>",
+    "text": "Gime la pluma y la tinta derrama lágrimas, el río61 del corazón se agita con ondas de sangre. «Nada puede suceder, salvo aquello que Dios nos ha destinado»62. ¡La paz sea con aquél que sigue el Recto Sendero!"
+  },
+  {
+    "id": "/page/52/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Habiendo escalado las cimas del asombro, el caminante entra en:</p>",
+    "text": "Habiendo escalado las cimas del asombro, el caminante entra en:"
+  },
+  {
+    "id": "/page/52/Handwriting/3",
+    "block_type": "Handwriting",
+    "html": "<p>El Valle de la Verdadera  Pobreza y la Nada Absoluta</p>",
+    "text": "El Valle de la Verdadera Pobreza y la Nada Absoluta"
+  },
+  {
+    "id": "/page/53/SectionHeader/0",
+    "block_type": "SectionHeader",
+    "html": "<h3>EL VALLE DE LA VERDADERA POBREZA Y LA NADA ABSOLUTA</h3>",
+    "text": "EL VALLE DE LA VERDADERA POBREZA Y LA NADA ABSOLUTA"
+  },
+  {
+    "id": "/page/53/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">🗲 sta estación es la muerte del yo y la vida <math display=\"inline\">\\mathfrak{O}</math>en Dios, el ser pobre en uno mismo y rico en el Deseado. La pobreza a la que se alude aquí significa ser pobre en las cosas del mundo creado y rico en las del mundo de Dios, pues cuando el amante verdadero y amigo devoto alcanza la presencia del Amado, la radiante belleza del Bienamado y el fuego del corazón del amante encenderán una llama que quemará todos los velos y envolturas. Más aún, todo lo que él posee, desde el corazón a la piel, arderá en llamas hasta que nada quede salvo el Amigo.</p>",
+    "text": "🗲 sta estación es la muerte del yo y la vida \\mathfrak{O} en Dios, el ser pobre en uno mismo y rico en el Deseado. La pobreza a la que se alude aquí significa ser pobre en las cosas del mundo creado y rico en las del mundo de Dios, pues cuando el amante verdadero y amigo devoto alcanza la presencia del Amado, la radiante belleza del Bienamado y el fuego del corazón del amante encenderán una llama que quemará todos los velos y envolturas. Más aún, todo lo que él posee, desde el corazón a la piel, arderá en llamas hasta que nada quede salvo el Amigo."
+  },
+  {
+    "id": "/page/53/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Cuando fueron reveladas las cualidades del Anciano de Días, entonces Moisés quemó las cualidades de las cosas terrenales <math display=\"inline\">63</math></p>",
+    "text": "Cuando fueron reveladas las cualidades del Anciano de Días, entonces Moisés quemó las cualidades de las cosas terrenales 63"
+  },
+  {
+    "id": "/page/54/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\" class=\"has-continuation\">Aquél que ha alcanzado este estado, está santificado de todo lo que pertenece al mundo. Por lo cual, no importa si a aquellos que han llegado al mar de Su presencia se los encuentra desposeídos de todas las cosas limitadas de este mundo perecedero, ya sean éstas riquezas externas u opiniones personales. Porque cualquier cosa que posean los seres creados está sujeta a sus propias limitaciones, mas todo lo que posea el Verdadero está santificado de ellas; esta aserción debe ser profundamente ponderada para que quede claro su significado. «En verdad, el justo beberá del cáliz preparado en la fuente alcanforada»64. Si se llegara a conocer la interpretación de «alcanfor», se haría evidente la verdadera intención. Este estado es aquella pobreza de la cual se dice: «La pobreza es Mi gloria»65. Existen muchos grados y significados de la pobreza exterior e interior que no he juzgado pertinente mencionar aquí; los he reservado,</p>",
+    "text": "Aquél que ha alcanzado este estado, está santificado de todo lo que pertenece al mundo. Por lo cual, no importa si a aquellos que han llegado al mar de Su presencia se los encuentra desposeídos de todas las cosas limitadas de este mundo perecedero, ya sean éstas riquezas externas u opiniones personales. Porque cualquier cosa que posean los seres creados está sujeta a sus propias limitaciones, mas todo lo que posea el Verdadero está santificado de ellas; esta aserción debe ser profundamente ponderada para que quede claro su significado. «En verdad, el justo beberá del cáliz preparado en la fuente alcanforada»64. Si se llegara a conocer la interpretación de «alcanfor», se haría evidente la verdadera intención. Este estado es aquella pobreza de la cual se dice: «La pobreza es Mi gloria»65. Existen muchos grados y significados de la pobreza exterior e interior que no he juzgado pertinente mencionar aquí; los he reservado,"
+  },
+  {
+    "id": "/page/55/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">por lo tanto, para otra ocasión, dependiendo de lo que Dios pueda desear y el destino deparar.</p>",
+    "text": "por lo tanto, para otra ocasión, dependiendo de lo que Dios pueda desear y el destino deparar."
+  },
+  {
+    "id": "/page/55/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Éste es el plano en el que quedan consumidos los vestigios de todas las cosas (Kull-i-Shay') en el caminante , y en el horizonte de la eternidad surge de la oscuridad la Faz Divina, y es revelado el significado de «Todo sobre la tierra pasará salvo el rostro de tu Señor...»66.</p>",
+    "text": "Éste es el plano en el que quedan consumidos los vestigios de todas las cosas (Kull-i-Shay') en el caminante , y en el horizonte de la eternidad surge de la oscuridad la Faz Divina, y es revelado el significado de «Todo sobre la tierra pasará salvo el rostro de tu Señor...»66."
+  },
+  {
+    "id": "/page/55/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\" class=\"has-continuation\">¡Oh amigo Mío! Escucha con alma y corazón los cánticos del espíritu y atesóralos como a tus propios ojos. Porque las sabidurías celestiales, cual nubes de primavera, no lloverán siempre sobre el suelo de los corazones de los hombres; y aunque la munificencia del Todomisericordioso es incesante y perpetua, a cada tiempo y a cada era le es asignada una porción y reservada una gracia, todo esto en una medida dada. «No hay cosa alguna que no esté depositada en Nosotros, y no la concedemos</p>",
+    "text": "¡Oh amigo Mío! Escucha con alma y corazón los cánticos del espíritu y atesóralos como a tus propios ojos. Porque las sabidurías celestiales, cual nubes de primavera, no lloverán siempre sobre el suelo de los corazones de los hombres; y aunque la munificencia del Todomisericordioso es incesante y perpetua, a cada tiempo y a cada era le es asignada una porción y reservada una gracia, todo esto en una medida dada. «No hay cosa alguna que no esté depositada en Nosotros, y no la concedemos"
+  },
+  {
+    "id": "/page/56/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">salvo en una medida determinada»67. La nube de la merced del Amado sólo riega el jardín del espíritu, y derrama sus gracias tan sólo en primavera. Las demás estaciones están privadas de esta poderosa gracia, y las tierras áridas no participan de este favor.</p>",
+    "text": "salvo en una medida determinada»67. La nube de la merced del Amado sólo riega el jardín del espíritu, y derrama sus gracias tan sólo en primavera. Las demás estaciones están privadas de esta poderosa gracia, y las tierras áridas no participan de este favor."
+  },
+  {
+    "id": "/page/56/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">¡Oh hermano! No todos los mares tienen perlas, ni todas las ramas florecen, ni tampoco trinará el ruiseñor sobre todas ellas. Así pues, antes de que el ruiseñor del paraíso místico se retire al jardín de Dios y vuelvan los rayos del alba celestial al Sol de la Verdad, esfuérzate para que quizás, en este cúmulo de polvo del mundo mortal, puedas aspirar una fragancia del jardín sempiterno y vivir para siempre a la sombra de las gentes de esta ciudad. Y cuando hayas llegado a este estado sublime y alcanzado este poderosísimo plano, verás al Amado y te olvidarás de todo lo demás.</p>",
+    "text": "¡Oh hermano! No todos los mares tienen perlas, ni todas las ramas florecen, ni tampoco trinará el ruiseñor sobre todas ellas. Así pues, antes de que el ruiseñor del paraíso místico se retire al jardín de Dios y vuelvan los rayos del alba celestial al Sol de la Verdad, esfuérzate para que quizás, en este cúmulo de polvo del mundo mortal, puedas aspirar una fragancia del jardín sempiterno y vivir para siempre a la sombra de las gentes de esta ciudad. Y cuando hayas llegado a este estado sublime y alcanzado este poderosísimo plano, verás al Amado y te olvidarás de todo lo demás."
+  },
+  {
+    "id": "/page/57/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">El Amado brilla sobre la cancela y el muro, sin velo alguno, oh hombres de visión. 68</p>",
+    "text": "El Amado brilla sobre la cancela y el muro, sin velo alguno, oh hombres de visión. 68"
+  },
+  {
+    "id": "/page/57/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Has abandonado así la gota de vida, y has venido al mar de Aquel que confiere Vida. Ésta es la meta que has querido; si es la voluntad de Dios, la alcanzarás.</p>",
+    "text": "Has abandonado así la gota de vida, y has venido al mar de Aquel que confiere Vida. Ésta es la meta que has querido; si es la voluntad de Dios, la alcanzarás."
+  },
+  {
+    "id": "/page/57/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">En esta ciudad, hasta los velos de luz se rasgan y desaparecen. «Nada vela su belleza salvo la luz, ni nada cubre su rostro salvo la revelación»69. Es extraño que, mientras el Bienamado es visible como el sol, los incautos aún van tras oropeles y el vil metal. Ciertamente, la intensidad de Su revelación Lo ha cubierto y la plenitud de Su resplandor Lo ha ocultado.</p>",
+    "text": "En esta ciudad, hasta los velos de luz se rasgan y desaparecen. «Nada vela su belleza salvo la luz, ni nada cubre su rostro salvo la revelación»69. Es extraño que, mientras el Bienamado es visible como el sol, los incautos aún van tras oropeles y el vil metal. Ciertamente, la intensidad de Su revelación Lo ha cubierto y la plenitud de Su resplandor Lo ha ocultado."
+  },
+  {
+    "id": "/page/57/Text/4",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Ha brillado resplandeciente como el sol, pero lástima que ha llegado a la ciudad de los ciegos. 70</p>",
+    "text": "Ha brillado resplandeciente como el sol, pero lástima que ha llegado a la ciudad de los ciegos. 70"
+  },
+  {
+    "id": "/page/58/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">En este Valle, el caminante deja tras de sí las etapas de la «unidad del Ser y de la Manifestación»<sup>71</sup> y alcanza una unidad que está santificada por encima de esas dos estaciones. Sólo el éxtasis puede abarcar este tema, no las palabras ni los argumentos. Y quienquiera que haya pasado esta etapa del viaje o haya aspirado un hálito de este jardín, sabe de lo que hablamos.</p>",
+    "text": "En este Valle, el caminante deja tras de sí las etapas de la «unidad del Ser y de la Manifestación» 71 y alcanza una unidad que está santificada por encima de esas dos estaciones. Sólo el éxtasis puede abarcar este tema, no las palabras ni los argumentos. Y quienquiera que haya pasado esta etapa del viaje o haya aspirado un hálito de este jardín, sabe de lo que hablamos."
+  },
+  {
+    "id": "/page/58/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">En todos estos viajes, el caminante no ha de desviarse ni un ápice de la «Ley», pues éste es ciertamente el secreto del «Sendero» y el fruto del Árbol de la «Verdad»; y en todas estas etapas debe agarrarse del manto de la obediencia a los mandamientos, y asir el cordón del huir de todo lo prohibido, para que pueda nutrirse con la copa de la Ley e informarse de los misterios de la Verdad72.</p>",
+    "text": "En todos estos viajes, el caminante no ha de desviarse ni un ápice de la «Ley», pues éste es ciertamente el secreto del «Sendero» y el fruto del Árbol de la «Verdad»; y en todas estas etapas debe agarrarse del manto de la obediencia a los mandamientos, y asir el cordón del huir de todo lo prohibido, para que pueda nutrirse con la copa de la Ley e informarse de los misterios de la Verdad72."
+  },
+  {
+    "id": "/page/58/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\" class=\"has-continuation\">Si alguna de las expresiones de este Siervo no fuera comprendida o llevase a la perturbación, hay que indagar de nuevo sobre ella, para que no persista duda alguna y para que el sig-</p>",
+    "text": "Si alguna de las expresiones de este Siervo no fuera comprendida o llevase a la perturbación, hay que indagar de nuevo sobre ella, para que no persista duda alguna y para que el sig-"
+  },
+  {
+    "id": "/page/59/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">nificado sea tan claro como el Rostro del Amado, brillando desde la «Gloriosa Posición»73.</p>",
+    "text": "nificado sea tan claro como el Rostro del Amado, brillando desde la «Gloriosa Posición»73."
+  },
+  {
+    "id": "/page/59/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Estas jornadas no tienen un fin visible en el mundo del tiempo, pero si desciende sobre él la confirmación invisible y es asistido por el Guardián de la Causa, el caminante desprendido puede atravesar estas siete etapas con siete pasos, más aún, con siete alientos, hasta de un solo soplo, si Dios así lo quiere y lo desea. Pues «Su Gracia está con Su siervo como a Él le place»74.</p>",
+    "text": "Estas jornadas no tienen un fin visible en el mundo del tiempo, pero si desciende sobre él la confirmación invisible y es asistido por el Guardián de la Causa, el caminante desprendido puede atravesar estas siete etapas con siete pasos, más aún, con siete alientos, hasta de un solo soplo, si Dios así lo quiere y lo desea. Pues «Su Gracia está con Su siervo como a Él le place»74."
+  },
+  {
+    "id": "/page/59/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Aquellos que se remontan en el cielo de la singularidad y alcanzan el mar de lo Absoluto, consideran esta ciudad —que es la estación de la vida en Dios— como el estado más avanzado de los conocedores místicos y la patria más lejana de los amantes. Pero, para este Evanescente del océano místico, esta posición es el primer portal de la ciudadela del amor; y el corazón está dotado de cuatro estados, que serían descritos si se encontrara tan sólo un alma afín.</p>",
+    "text": "Aquellos que se remontan en el cielo de la singularidad y alcanzan el mar de lo Absoluto, consideran esta ciudad —que es la estación de la vida en Dios— como el estado más avanzado de los conocedores místicos y la patria más lejana de los amantes. Pero, para este Evanescente del océano místico, esta posición es el primer portal de la ciudadela del amor; y el corazón está dotado de cuatro estados, que serían descritos si se encontrara tan sólo un alma afín."
+  },
+  {
+    "id": "/page/60/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Cuando la pluma se disponía a describir esta posición, se hizo pedazos y la hoja se rasgó. 75</p>",
+    "text": "Cuando la pluma se disponía a describir esta posición, se hizo pedazos y la hoja se rasgó. 75"
+  },
+  {
+    "id": "/page/60/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">¡Salám!76</p>",
+    "text": "¡Salám!76"
+  },
+  {
+    "id": "/page/60/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">¡Oh amigo mío! Más de un sabueso persigue a esta gacela del desierto de la unicidad; muchas son las zarpas que desgarran a este zorzal del jardín eterno. Cuervos despiadados acechan a esta ave del firmamento de Dios, y el cazador de la envidia ronda a este ciervo del prado del amor.</p>",
+    "text": "¡Oh amigo mío! Más de un sabueso persigue a esta gacela del desierto de la unicidad; muchas son las zarpas que desgarran a este zorzal del jardín eterno. Cuervos despiadados acechan a esta ave del firmamento de Dios, y el cazador de la envidia ronda a este ciervo del prado del amor."
+  },
+  {
+    "id": "/page/60/Text/4",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">¡Oh Shaykh! Haz de tu esfuerzo un cristal para que tal vez proteja esta llama de los vientos adversos; aunque esta luz anhela ser encendida en la lámpara del Señor y brillar en la esfera del espíritu. Pues, ciertamente, la cabeza alzada por amor a Dios caerá bajo la espada, y la vida encendida por el anhelo será de seguro sacrificada y el corazón que recuerde al Amado desbordará de sangre seguramente. Bien se ha dicho:</p>",
+    "text": "¡Oh Shaykh! Haz de tu esfuerzo un cristal para que tal vez proteja esta llama de los vientos adversos; aunque esta luz anhela ser encendida en la lámpara del Señor y brillar en la esfera del espíritu. Pues, ciertamente, la cabeza alzada por amor a Dios caerá bajo la espada, y la vida encendida por el anhelo será de seguro sacrificada y el corazón que recuerde al Amado desbordará de sangre seguramente. Bien se ha dicho:"
+  },
+  {
+    "id": "/page/61/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Vive libre de amor, pues su paz es verdadera angustia; su comienzo es dolor, su final es muerte. 77</p>",
+    "text": "Vive libre de amor, pues su paz es verdadera angustia; su comienzo es dolor, su final es muerte. 77"
+  },
+  {
+    "id": "/page/61/SectionHeader/2",
+    "block_type": "SectionHeader",
+    "html": "<h3>¡La paz sea con aquél que sigue  el Recto Sendero!</h3>",
+    "text": "¡La paz sea con aquél que sigue el Recto Sendero!"
+  },
+  {
+    "id": "/page/61/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Se han considerado los pensamientos que expresaste en cuanto a la interpretación de la especie común del pájaro que en persa se llama Gunjishk78 (gorrión). Pareces estar versado en la verdad mística. Sin embargo, en cada plano se ha adjudicado a cada letra un significado relacionado con ese plano. En realidad, el caminante encuentra un secreto en cada nombre, un misterio en cada letra. En un sentido, estas letras se refieren a la santidad.</p>",
+    "text": "Se han considerado los pensamientos que expresaste en cuanto a la interpretación de la especie común del pájaro que en persa se llama Gunjishk78 (gorrión). Pareces estar versado en la verdad mística. Sin embargo, en cada plano se ha adjudicado a cada letra un significado relacionado con ese plano. En realidad, el caminante encuentra un secreto en cada nombre, un misterio en cada letra. En un sentido, estas letras se refieren a la santidad."
+  },
+  {
+    "id": "/page/61/Text/4",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\"><i>Káf</i> o <i>Gáf</i> (K o G) se refieren a <i>Kuffi</i> ('libre'), o sea, «Libérate de lo que desea tu pasión; entonces, avanza hacia tu Señor».</p>",
+    "text": "Káf o Gáf (K o G) se refieren a Kuffi ('libre'), o sea, «Libérate de lo que desea tu pasión; entonces, avanza hacia tu Señor»."
+  },
+  {
+    "id": "/page/62/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\"><i>Nún</i> se refiere a <i>Nazzih</i> ('purificar'), o sea, «Purifícate de todo salvo de Él, para que puedas entregar tu vida por Su amor».</p>",
+    "text": "Nún se refiere a Nazzih ('purificar'), o sea, «Purifícate de todo salvo de Él, para que puedas entregar tu vida por Su amor»."
+  },
+  {
+    "id": "/page/62/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\"><i>Jím</i> es <i>Jánib</i> ('retirarse'), o sea, «Retírate del umbral del verdadero si aún posees atributos terrenales».</p>",
+    "text": "Jím es Jánib ('retirarse'), o sea, «Retírate del umbral del verdadero si aún posees atributos terrenales»."
+  },
+  {
+    "id": "/page/62/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\"><i>Shín</i> es <i>Ushkur</i> ('gracias'), o sea, «Da gracias a Tu Señor en Su tierra para que Él pueda bendecirte en Su cielo; si bien en este mundo de unicidad, este cielo es lo mismo que Su tierra».</p>",
+    "text": "Shín es Ushkur ('gracias'), o sea, «Da gracias a Tu Señor en Su tierra para que Él pueda bendecirte en Su cielo; si bien en este mundo de unicidad, este cielo es lo mismo que Su tierra»."
+  },
+  {
+    "id": "/page/62/Text/4",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\"><i>Káf</i> se refiere a <i>Kuffi</i>, o sea, «Quítate las envolturas de las limitaciones, para que puedas llegar a conocer lo que no has conocido de los estados de Santidad»79.</p>",
+    "text": "Káf se refiere a Kuffi , o sea, «Quítate las envolturas de las limitaciones, para que puedas llegar a conocer lo que no has conocido de los estados de Santidad»79."
+  },
+  {
+    "id": "/page/62/Text/5",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Si escucharas las melodías de esta Ave mortal80, buscarías entonces el cáliz inmortal y rehusarías toda copa perecedera.</p>",
+    "text": "Si escucharas las melodías de esta Ave mortal80, buscarías entonces el cáliz inmortal y rehusarías toda copa perecedera."
+  },
+  {
+    "id": "/page/62/Text/6",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">¡La paz sea con aquellos que caminan por el Recto Sendero!</p>",
+    "text": "¡La paz sea con aquellos que caminan por el Recto Sendero!"
+  },
+  {
+    "id": "/page/63/SectionHeader/0",
+    "block_type": "SectionHeader",
+    "html": "<h2>LOS CUATRO VALLES</h2>",
+    "text": "LOS CUATRO VALLES"
+  },
+  {
+    "id": "/page/64/SectionHeader/0",
+    "block_type": "SectionHeader",
+    "html": "<h3>ÉL ES EL FUERTE, EL BIENAMADO!</h3>",
+    "text": "ÉL ES EL FUERTE, EL BIENAMADO!"
+  },
+  {
+    "id": "/page/64/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Ì O h luz de la verdad, Hisám-i-&lt;br&gt;Dín, el generoso. El mundo no ha engendrado otro príncipe como Tú!&lt;sup&gt;1&lt;/sup&gt;</p>",
+    "text": "Ì O h luz de la verdad, Hisám-i-&lt;br&gt;Dín, el generoso. El mundo no ha engendrado otro príncipe como Tú!&lt;sup&gt;1&lt;/sup&gt;"
+  },
+  {
+    "id": "/page/64/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Me pregunto por qué fue cortado tan bruscamente el lazo del amor y rota la firme alianza de la amistad. ¿Es porque, Dios no lo permita, alguna vez decreció Mi devoción o falló Mi profundo afecto, por lo que tú Me has olvidado y Me has borrado de Tus pensamientos?</p>",
+    "text": "Me pregunto por qué fue cortado tan bruscamente el lazo del amor y rota la firme alianza de la amistad. ¿Es porque, Dios no lo permita, alguna vez decreció Mi devoción o falló Mi profundo afecto, por lo que tú Me has olvidado y Me has borrado de Tus pensamientos?"
+  },
+  {
+    "id": "/page/64/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">¿Qué falta Mía ha hecho cesar tus favores? ¿Será que Nosotros somos de baja condición y tú de alta?&lt;sup&gt;2&lt;/sup&gt;</p>",
+    "text": "¿Qué falta Mía ha hecho cesar tus favores? ¿Será que Nosotros somos de baja condición y tú de alta?&lt;sup&gt;2&lt;/sup&gt;"
+  },
+  {
+    "id": "/page/64/Text/4",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\" class=\"has-continuation\">¿O es que una sola flecha te ha sacado del campo de batalla?&lt;sup&gt;3&lt;/sup&gt;; No te han dicho que la fi-</p>",
+    "text": "¿O es que una sola flecha te ha sacado del campo de batalla?&lt;sup&gt;3&lt;/sup&gt;; No te han dicho que la fi-"
+  },
+  {
+    "id": "/page/65/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">delidad es un deber para aquellos que siguen la vía mística, que ésta es la guía verdadera hacia la Sagrada Presencia? «En cuanto a aquellos que dicen \"Dios es nuestro Señor\" y marchan derecho hacia Él, los ángeles descenderán sobre ellos...»4</p>",
+    "text": "delidad es un deber para aquellos que siguen la vía mística, que ésta es la guía verdadera hacia la Sagrada Presencia? «En cuanto a aquellos que dicen \"Dios es nuestro Señor\" y marchan derecho hacia Él, los ángeles descenderán sobre ellos...»4"
+  },
+  {
+    "id": "/page/65/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Asimismo dice Él: «Sigue adelante como se te ha ordenado»<sup>5</sup> , ya que es éste el camino obligado para aquellos que viven en la presencia de Dios.</p>",
+    "text": "Asimismo dice Él: «Sigue adelante como se te ha ordenado» 5 , ya que es éste el camino obligado para aquellos que viven en la presencia de Dios."
+  },
+  {
+    "id": "/page/65/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Hago lo que se me ordena y llevo el mensaje, ya sea que te sirva de consejo o de ofensa. 6</p>",
+    "text": "Hago lo que se me ordena y llevo el mensaje, ya sea que te sirva de consejo o de ofensa. 6"
+  },
+  {
+    "id": "/page/65/Text/4",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Aunque no he recibido respuesta a Mis cartas y es contrario a la costumbre de los sabios expresar nuevamente Mi parecer, sin embargo, este amor nuevo ha quebrantado todas las reglas y formas viejas.</p>",
+    "text": "Aunque no he recibido respuesta a Mis cartas y es contrario a la costumbre de los sabios expresar nuevamente Mi parecer, sin embargo, este amor nuevo ha quebrantado todas las reglas y formas viejas."
+  },
+  {
+    "id": "/page/66/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">No nos cuentes la historia de las penas de Laylí ni las de Majnún.</p>",
+    "text": "No nos cuentes la historia de las penas de Laylí ni las de Majnún."
+  },
+  {
+    "id": "/page/66/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Tu amor ha hecho olvidar al mundo los amores de antaño.</p>",
+    "text": "Tu amor ha hecho olvidar al mundo los amores de antaño."
+  },
+  {
+    "id": "/page/66/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Una vez que tu nombre se posó sobre la lengua, los amantes lo tomaron.</p>",
+    "text": "Una vez que tu nombre se posó sobre la lengua, los amantes lo tomaron."
+  },
+  {
+    "id": "/page/66/Text/4",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Haciendo bailar de acá para allá a oyentes y oradores. 7</p>",
+    "text": "Haciendo bailar de acá para allá a oyentes y oradores. 7"
+  },
+  {
+    "id": "/page/66/Text/5",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Y de la sabiduría divina y del consejo celestial, dice Rúmí:</p>",
+    "text": "Y de la sabiduría divina y del consejo celestial, dice Rúmí:"
+  },
+  {
+    "id": "/page/66/Text/6",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">C on cada luna, oh mi amado, por tres días enloquezco.</p>",
+    "text": "C on cada luna, oh mi amado, por tres días enloquezco."
+  },
+  {
+    "id": "/page/66/Text/7",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Hoy es el primero de ellos; por eso me ves feliz.</p>",
+    "text": "Hoy es el primero de ellos; por eso me ves feliz."
+  },
+  {
+    "id": "/page/66/Text/8",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Hemos sabido que has viajado a Tabríz y Tiflis para difundir conocimientos, o que algún otro noble propósito te ha llevado a Sanandaj8-9.</p>",
+    "text": "Hemos sabido que has viajado a Tabríz y Tiflis para difundir conocimientos, o que algún otro noble propósito te ha llevado a Sanandaj8-9."
+  },
+  {
+    "id": "/page/67/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">¡Oh Mi eminente amigo! Aquellos que progresan en el camino místico son de cuatro clases. Los describiré brevemente para que queden claros los grados y cualidades de cada clase.</p>",
+    "text": "¡Oh Mi eminente amigo! Aquellos que progresan en el camino místico son de cuatro clases. Los describiré brevemente para que queden claros los grados y cualidades de cada clase."
+  },
+  {
+    "id": "/page/68/SectionHeader/0",
+    "block_type": "SectionHeader",
+    "html": "<h3>EL PRIMER VALLE</h3>",
+    "text": "EL PRIMER VALLE"
+  },
+  {
+    "id": "/page/68/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">🔇 i los viajeros van en pos de Aquél que es <math display=\"inline\">\\mathbf{Q}</math>el objeto de sus intenciones (Maqsúd), esta etapa pertenece al yo, pero al yo que es «El Yo de Dios alzado con leyes dentro de Él»&lt;sup&gt;10&lt;/sup&gt;.</p>",
+    "text": "🔇 i los viajeros van en pos de Aquél que es \\mathbf{Q} el objeto de sus intenciones (Maqsúd), esta etapa pertenece al yo, pero al yo que es «El Yo de Dios alzado con leyes dentro de Él»&lt;sup&gt;10&lt;/sup&gt;."
+  },
+  {
+    "id": "/page/68/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">En este plano, el yo no es rechazado sino que es amado, es agradable y no se le debe rehuir. A pesar de que al principio este plano es el reino del conflicto, al fin se accede al trono del esplendor. Como ha sido dicho: «¡Oh Abraham de este día! ¡Oh Abraham, Amigo del Espíritu! Mata a estas cuatro aves de presa»&lt;sup&gt;11&lt;/sup&gt;, para que, después de la muerte, el enigma de la vida pueda ser descifrado.</p>",
+    "text": "En este plano, el yo no es rechazado sino que es amado, es agradable y no se le debe rehuir. A pesar de que al principio este plano es el reino del conflicto, al fin se accede al trono del esplendor. Como ha sido dicho: «¡Oh Abraham de este día! ¡Oh Abraham, Amigo del Espíritu! Mata a estas cuatro aves de presa»&lt;sup&gt;11&lt;/sup&gt;, para que, después de la muerte, el enigma de la vida pueda ser descifrado."
+  },
+  {
+    "id": "/page/68/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Éste es el plano del alma que es agradable a Dios. Refiérete al verso:</p>",
+    "text": "Éste es el plano del alma que es agradable a Dios. Refiérete al verso:"
+  },
+  {
+    "id": "/page/68/Text/4",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">¡Oh tú, alma, que estás bien segura, Retorna a tu Señor, agradada y agradable a Él!12</p>",
+    "text": "¡Oh tú, alma, que estás bien segura, Retorna a tu Señor, agradada y agradable a Él!12"
+  },
+  {
+    "id": "/page/69/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">y que finaliza:</p>",
+    "text": "y que finaliza:"
+  },
+  {
+    "id": "/page/69/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Únete a Mis siervos y entrarás en Mi paraíso. 13</p>",
+    "text": "Únete a Mis siervos y entrarás en Mi paraíso. 13"
+  },
+  {
+    "id": "/page/69/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">En esta etapa hay muchos signos e innumerables pruebas. Por ello se dice: «De aquí en adelante les mostraremos Nuestros signos en las regiones de la tierra y en ellos mismos, hasta que la verdad se les haga manifiesta»14, y que no hay Dios sino Él.</p>",
+    "text": "En esta etapa hay muchos signos e innumerables pruebas. Por ello se dice: «De aquí en adelante les mostraremos Nuestros signos en las regiones de la tierra y en ellos mismos, hasta que la verdad se les haga manifiesta»14, y que no hay Dios sino Él."
+  },
+  {
+    "id": "/page/69/Text/4",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Uno debe, entonces, leer el libro de su propio yo antes que un tratado sobre retórica. Por lo cual Él ha dicho: «Lee tu Libro: En este día no hace falta nadie más que tú para hacer la cuenta en tu contra»15.</p>",
+    "text": "Uno debe, entonces, leer el libro de su propio yo antes que un tratado sobre retórica. Por lo cual Él ha dicho: «Lee tu Libro: En este día no hace falta nadie más que tú para hacer la cuenta en tu contra»15."
+  },
+  {
+    "id": "/page/69/Text/5",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Cuentan la historia de un conocedor místico, que salió de viaje con un gramático amigo. Llegaron a la orilla del Mar del Esplendor. El conocedor se arrojó enseguida a las olas, pero el gramático permaneció perdido en sus razonamientos que eran co-</p>",
+    "text": "Cuentan la historia de un conocedor místico, que salió de viaje con un gramático amigo. Llegaron a la orilla del Mar del Esplendor. El conocedor se arrojó enseguida a las olas, pero el gramático permaneció perdido en sus razonamientos que eran co-"
+  },
+  {
+    "id": "/page/70/Caption/0",
+    "block_type": "Caption",
+    "html": "<p>EL PRIMER VALLE</p>",
+    "text": "EL PRIMER VALLE"
+  },
+  {
+    "id": "/page/70/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">mo palabras escritas en el agua. El conocedor le gritó: «¿Por qué no me sigues?», a lo que el gramático respondió: «¡Oh Hermano! No me atrevo a avanzar. Debo volver». Entonces exclamó el conocedor: «Olvida lo que has leído en los libros de Síbavayah y Qawlavayh, de Ibn-i-H. ájib e Ibn-i-Málik16, y cruza el agua».</p>",
+    "text": "mo palabras escritas en el agua. El conocedor le gritó: «¿Por qué no me sigues?», a lo que el gramático respondió: «¡Oh Hermano! No me atrevo a avanzar. Debo volver». Entonces exclamó el conocedor: «Olvida lo que has leído en los libros de Síbavayah y Qawlavayh, de Ibn-i-H. ájib e Ibn-i-Málik16, y cruza el agua»."
+  },
+  {
+    "id": "/page/70/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Aquí hace falta la muerte del yo, no la retórica; Sé nada, entonces, y anda sobre las olas. 17</p>",
+    "text": "Aquí hace falta la muerte del yo, no la retórica; Sé nada, entonces, y anda sobre las olas. 17"
+  },
+  {
+    "id": "/page/70/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Asimismo, está escrito: «Y no seáis de aquellos que olvidan a Dios y a quienes Él ha hecho olvidarse de sí mismos. Éstos son los perversos»18.</p>",
+    "text": "Asimismo, está escrito: «Y no seáis de aquellos que olvidan a Dios y a quienes Él ha hecho olvidarse de sí mismos. Éstos son los perversos»18."
+  },
+  {
+    "id": "/page/71/SectionHeader/0",
+    "block_type": "SectionHeader",
+    "html": "<h3>EL SEGUNDO VALLE</h3>",
+    "text": "EL SEGUNDO VALLE"
+  },
+  {
+    "id": "/page/71/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Ci la meta del caminante fuera la morada →del Loable (Maḥmúd)&lt;sup&gt;19&lt;/sup&gt;, ésta es la etapa de la razón primordial conocida como el Profeta y el Pilar Más Grande&lt;sup&gt;20&lt;/sup&gt;.</p>",
+    "text": "Ci la meta del caminante fuera la morada →del Loable (Maḥmúd)&lt;sup&gt;19&lt;/sup&gt;, ésta es la etapa de la razón primordial conocida como el Profeta y el Pilar Más Grande&lt;sup&gt;20&lt;/sup&gt;."
+  },
+  {
+    "id": "/page/71/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Aquí la razón significa la mente divina, universal, cuya soberanía ilumina todas las cosas creadas, y no se refiere a todo cerebro débil; pues es como ha escrito el sabio Saná'í:</p>",
+    "text": "Aquí la razón significa la mente divina, universal, cuya soberanía ilumina todas las cosas creadas, y no se refiere a todo cerebro débil; pues es como ha escrito el sabio Saná'í:"
+  },
+  {
+    "id": "/page/71/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">¿Cómo puede la razón abarcar el Corán, o la araña atrapar al fénix en su tela? ¿Querrías que la mente no te engañe? ¡Enséñale la ciencia del amor de Dios!</p>",
+    "text": "¿Cómo puede la razón abarcar el Corán, o la araña atrapar al fénix en su tela? ¿Querrías que la mente no te engañe? ¡Enséñale la ciencia del amor de Dios!"
+  },
+  {
+    "id": "/page/71/Text/4",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">En este plano el viajero se encuentra con más de una prueba y más de un revés. Tan pronto se ve elevado al cielo como arrojado a las profundidades. Como se ha dicho: «Ora Tú me acercas a la cumbre de la gloria,</p>",
+    "text": "En este plano el viajero se encuentra con más de una prueba y más de un revés. Tan pronto se ve elevado al cielo como arrojado a las profundidades. Como se ha dicho: «Ora Tú me acercas a la cumbre de la gloria,"
+  },
+  {
+    "id": "/page/72/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">ora me arrojas al abismo más profundo». El misterio atesorado en este plano queda revelado en el siguiente verso de la Súra de LA CAVERNA21.</p>",
+    "text": "ora me arrojas al abismo más profundo». El misterio atesorado en este plano queda revelado en el siguiente verso de la Súra de LA CAVERNA21."
+  },
+  {
+    "id": "/page/72/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Y habrás podido ver que mientras ellos permanecían en una cámara de la cueva, el sol, al salir, pasaba a la derecha de su caverna y, al ponerse, los dejaba a la izquierda. Este es uno de los signos de Dios. Guiado, en verdad, es Aquél a quien Dios guía; pero para aquél a quien Dios extravía, de ninguna manera hallarás un amigo que lo guíe.</p>",
+    "text": "Y habrás podido ver que mientras ellos permanecían en una cámara de la cueva, el sol, al salir, pasaba a la derecha de su caverna y, al ponerse, los dejaba a la izquierda. Este es uno de los signos de Dios. Guiado, en verdad, es Aquél a quien Dios guía; pero para aquél a quien Dios extravía, de ninguna manera hallarás un amigo que lo guíe."
+  },
+  {
+    "id": "/page/72/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Si un hombre pudiera saber lo que encierra este solo versículo, le bastaría. Por lo cual, en alabanza a tal hombre, Él ha dicho: «Hombres a quienes ni los negocios ni el comercio distraen del recuerdo de Dios...»22.</p>",
+    "text": "Si un hombre pudiera saber lo que encierra este solo versículo, le bastaría. Por lo cual, en alabanza a tal hombre, Él ha dicho: «Hombres a quienes ni los negocios ni el comercio distraen del recuerdo de Dios...»22."
+  },
+  {
+    "id": "/page/72/Text/4",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Esta etapa confiere la medida de la verdadera sabiduría y libra al hombre de prue-</p>",
+    "text": "Esta etapa confiere la medida de la verdadera sabiduría y libra al hombre de prue-"
+  },
+  {
+    "id": "/page/73/Caption/0",
+    "block_type": "Caption",
+    "html": "<p>EL SEGUNDO VALLE</p>",
+    "text": "EL SEGUNDO VALLE"
+  },
+  {
+    "id": "/page/73/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">bas. En este reino, la búsqueda de conocimiento es irrelevante, puesto que, en lo que concierne a la guía de los que atraviesan este plano, Él ha dicho: «Teme a Dios y Dios te instruirá»23. Y de nuevo: «El conocimiento es una luz que Dios vierte sobre el corazón de aquél a quien Él quiera»24. Por lo cual, un hombre debería preparar su corazón para que sea digno del descenso de la gracia celestial, y para que el generoso Escanciador pueda darle a beber del vino generoso de la vasija de misericordia. «¡Que los afanosos se afanen por esto!»<sup>25</sup></p>",
+    "text": "bas. En este reino, la búsqueda de conocimiento es irrelevante, puesto que, en lo que concierne a la guía de los que atraviesan este plano, Él ha dicho: «Teme a Dios y Dios te instruirá»23. Y de nuevo: «El conocimiento es una luz que Dios vierte sobre el corazón de aquél a quien Él quiera»24. Por lo cual, un hombre debería preparar su corazón para que sea digno del descenso de la gracia celestial, y para que el generoso Escanciador pueda darle a beber del vino generoso de la vasija de misericordia. «¡Que los afanosos se afanen por esto!» 25"
+  },
+  {
+    "id": "/page/73/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Y ahora digo yo: «Verdaderamente de Dios venimos y a Él retornaremos»26.</p>",
+    "text": "Y ahora digo yo: «Verdaderamente de Dios venimos y a Él retornaremos»26."
+  },
+  {
+    "id": "/page/74/SectionHeader/0",
+    "block_type": "SectionHeader",
+    "html": "<h3>EL TERCER VALLE</h3>",
+    "text": "EL TERCER VALLE"
+  },
+  {
+    "id": "/page/74/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\"><b>C</b>i los buscadores amantes desean vivir en 🕽el recinto de Aquél que Atrae (Maj-<math display=\"inline\">\\underline{dh}</math>úb)&lt;sup&gt;27&lt;/sup&gt;, no hay alma que pueda habitar sobre este Trono Real salvo la belleza del amor. Este reino no puede describirse con palahras</p>",
+    "text": "C i los buscadores amantes desean vivir en 🕽el recinto de Aquél que Atrae (Maj- \\underline{dh} úb)&lt;sup&gt;27&lt;/sup&gt;, no hay alma que pueda habitar sobre este Trono Real salvo la belleza del amor. Este reino no puede describirse con palahras"
+  },
+  {
+    "id": "/page/74/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">El amor desdeña este mundo y aquel mundo también. En él hay setenta y dos locuras. El juglar del amor canta esta balada: La servidumbre esclaviza, la dignidad real traiciona.&lt;sup&gt;28&lt;/sup&gt;</p>",
+    "text": "El amor desdeña este mundo y aquel mundo también. En él hay setenta y dos locuras. El juglar del amor canta esta balada: La servidumbre esclaviza, la dignidad real traiciona.&lt;sup&gt;28&lt;/sup&gt;"
+  },
+  {
+    "id": "/page/74/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Este plano requiere del afecto puro y del agua cristalina de la camaradería. Al hablar sobre sus compañeros de la Caverna, Él ha dicho: «No hablan hasta que él haya hablado y obran según Sus órdenes»&lt;sup&gt;29&lt;/sup&gt;.</p>",
+    "text": "Este plano requiere del afecto puro y del agua cristalina de la camaradería. Al hablar sobre sus compañeros de la Caverna, Él ha dicho: «No hablan hasta que él haya hablado y obran según Sus órdenes»&lt;sup&gt;29&lt;/sup&gt;."
+  },
+  {
+    "id": "/page/75/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">En este plano, no son suficientes ni el reino de la razón ni la autoridad del yo. De allí que uno de los Profetas de Dios ha preguntado: «¡Oh mi Señor! ¿Cómo llegar hasta Ti?» y llegó la respuesta: «Deja atrás tu yo y entonces acércate a Mí».</p>",
+    "text": "En este plano, no son suficientes ni el reino de la razón ni la autoridad del yo. De allí que uno de los Profetas de Dios ha preguntado: «¡Oh mi Señor! ¿Cómo llegar hasta Ti?» y llegó la respuesta: «Deja atrás tu yo y entonces acércate a Mí»."
+  },
+  {
+    "id": "/page/75/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Esta es una gente que estima el lugar más humilde como si fuera el trono de gloria y para ellos la pérgola de la belleza no difiere del campo en que se libra una batalla por la causa de su Bienamado.</p>",
+    "text": "Esta es una gente que estima el lugar más humilde como si fuera el trono de gloria y para ellos la pérgola de la belleza no difiere del campo en que se libra una batalla por la causa de su Bienamado."
+  },
+  {
+    "id": "/page/75/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Los que habitan en este plano no pronuncian palabra, sino que galopan en sus corceles. No ven sino la realidad interior de su Bienamado. Para ellos, las palabras con sentido carecen de significado y las palabras sin sentido están cargadas de significación. No distinguen un miembro de otro, ni una parte de otra. Para ellos, la ilusión es el río verdadero; el irse es retornar. Por lo cual se ha dicho:</p>",
+    "text": "Los que habitan en este plano no pronuncian palabra, sino que galopan en sus corceles. No ven sino la realidad interior de su Bienamado. Para ellos, las palabras con sentido carecen de significado y las palabras sin sentido están cargadas de significación. No distinguen un miembro de otro, ni una parte de otra. Para ellos, la ilusión es el río verdadero; el irse es retornar. Por lo cual se ha dicho:"
+  },
+  {
+    "id": "/page/75/Text/4",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\"></p>",
+    "text": ""
+  },
+  {
+    "id": "/page/75/Text/5",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">90</p>",
+    "text": "90"
+  },
+  {
+    "id": "/page/76/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">L a historia de Tu belleza llegó a la cueva del ermitaño.</p>",
+    "text": "L a historia de Tu belleza llegó a la cueva del ermitaño."
+  },
+  {
+    "id": "/page/76/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Enloquecido, buscó la Taberna donde compran y venden vino.</p>",
+    "text": "Enloquecido, buscó la Taberna donde compran y venden vino."
+  },
+  {
+    "id": "/page/76/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">El amor a Ti ha derribado el fuerte de la paciencia.</p>",
+    "text": "El amor a Ti ha derribado el fuerte de la paciencia."
+  },
+  {
+    "id": "/page/76/Text/4",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">El dolor por Ti ha cerrado también firmemente el portal de la esperanza. 30</p>",
+    "text": "El dolor por Ti ha cerrado también firmemente el portal de la esperanza. 30"
+  },
+  {
+    "id": "/page/76/Text/5",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">En este reino, de nada sirve la instrucción.</p>",
+    "text": "En este reino, de nada sirve la instrucción."
+  },
+  {
+    "id": "/page/76/Text/6",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">El maestro del amante es la belleza del Amado; Su rostro, la lección y el único texto.</p>",
+    "text": "El maestro del amante es la belleza del Amado; Su rostro, la lección y el único texto."
+  },
+  {
+    "id": "/page/76/Text/7",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Su deber es aprender sobre el asombro y el amor vehemente, sin fijarse en capítulos eruditos y temas obtusos.</p>",
+    "text": "Su deber es aprender sobre el asombro y el amor vehemente, sin fijarse en capítulos eruditos y temas obtusos."
+  },
+  {
+    "id": "/page/76/Text/8",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">La cadena que los ata es Su cabello almizclado; para ellos el Esquema Cíclico31; para Él, sólo un peldaño. 32</p>",
+    "text": "La cadena que los ata es Su cabello almizclado; para ellos el Esquema Cíclico31; para Él, sólo un peldaño. 32"
+  },
+  {
+    "id": "/page/77/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Aquí sigue una súplica a Dios, el Eminente, el Glorificado:</p>",
+    "text": "Aquí sigue una súplica a Dios, el Eminente, el Glorificado:"
+  },
+  {
+    "id": "/page/77/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">¡Oh Señor! ¡Oh Tú cuya generosidad concede los deseos!</p>",
+    "text": "¡Oh Señor! ¡Oh Tú cuya generosidad concede los deseos!"
+  },
+  {
+    "id": "/page/77/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Estoy de pie frente a Ti, olvidándolo todo salvo a Ti.</p>",
+    "text": "Estoy de pie frente a Ti, olvidándolo todo salvo a Ti."
+  },
+  {
+    "id": "/page/77/Text/4",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Haz que la partícula de conocimiento que hay en mi espíritu huya del deseo y de la prosaica arcilla; haz que Tu antiguo don, esta gota de sabiduría, se mezcle con Tu poderoso océano. 33</p>",
+    "text": "Haz que la partícula de conocimiento que hay en mi espíritu huya del deseo y de la prosaica arcilla; haz que Tu antiguo don, esta gota de sabiduría, se mezcle con Tu poderoso océano. 33"
+  },
+  {
+    "id": "/page/77/Text/5",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Por eso digo: No hay fuerza o poder salvo en Dios, el Protector, el que Subsiste por Sí Mismo. 34</p>",
+    "text": "Por eso digo: No hay fuerza o poder salvo en Dios, el Protector, el que Subsiste por Sí Mismo. 34"
+  },
+  {
+    "id": "/page/78/SectionHeader/0",
+    "block_type": "SectionHeader",
+    "html": "<h3>EL CUARTO VALLE</h3>",
+    "text": "EL CUARTO VALLE"
+  },
+  {
+    "id": "/page/78/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">i los conocedores místicos son de aque-<math display=\"inline\">\\mathbf{Q}</math>llos que han alcanzado la belleza del Amado (Mahbúd), este estado es la cumbre de la conciencia y el secreto de la guía divina. Este es el centro del misterio: «Él hace Su voluntad y ordena lo que Le place»&lt;sup&gt;35&lt;/sup&gt;.</p>",
+    "text": "i los conocedores místicos son de aque- \\mathbf{Q} llos que han alcanzado la belleza del Amado (Mahbúd), este estado es la cumbre de la conciencia y el secreto de la guía divina. Este es el centro del misterio: «Él hace Su voluntad y ordena lo que Le place»&lt;sup&gt;35&lt;/sup&gt;."
+  },
+  {
+    "id": "/page/78/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Si todos los habitantes del cielo y de la tierra descifraran esta brillante alusión, este oscuro enigma, hasta el Día en que suene la Trompeta, aun así no podrían comprender ni una sola de sus letras, pues ésta es la posición del derecho inmutable de Dios, de Su misterio predeterminado.</p>",
+    "text": "Si todos los habitantes del cielo y de la tierra descifraran esta brillante alusión, este oscuro enigma, hasta el Día en que suene la Trompeta, aun así no podrían comprender ni una sola de sus letras, pues ésta es la posición del derecho inmutable de Dios, de Su misterio predeterminado."
+  },
+  {
+    "id": "/page/78/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Por ello, cuando los buscadores preguntaban sobre esto, Él dio una respuesta: «Éste es un mar insondable que nadie comprenderá jamás»&lt;sup&gt;36&lt;/sup&gt;. Y nuevamente preguntaron y Él respondió: «Es la más oscura de las noches, en la que nadie hallará su camino».</p>",
+    "text": "Por ello, cuando los buscadores preguntaban sobre esto, Él dio una respuesta: «Éste es un mar insondable que nadie comprenderá jamás»&lt;sup&gt;36&lt;/sup&gt;. Y nuevamente preguntaron y Él respondió: «Es la más oscura de las noches, en la que nadie hallará su camino»."
+  },
+  {
+    "id": "/page/79/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Quienquiera que conozca este secreto seguramente lo ocultará, y si revelara aun la pista más vaga, lo clavarían en la cruz. Sin embargo, por el Dios Viviente, si hubiera un buscador sincero, yo se lo revelaría; porque han dicho: «El amor es una luz que nunca brilla en un corazón poseído por el miedo».</p>",
+    "text": "Quienquiera que conozca este secreto seguramente lo ocultará, y si revelara aun la pista más vaga, lo clavarían en la cruz. Sin embargo, por el Dios Viviente, si hubiera un buscador sincero, yo se lo revelaría; porque han dicho: «El amor es una luz que nunca brilla en un corazón poseído por el miedo»."
+  },
+  {
+    "id": "/page/79/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Verdaderamente, el caminante que se dirige hacia Dios, hacia el Pilar Carmesí en el sendero de blanca nieve, jamás alcanzará su meta celestial a menos que abandone todo lo que los hombres poseen: «Y si no teme a Dios, Dios hará que él tema a todas las cosas; mientras que todas las cosas temen a aquél que teme a Dios»37.</p>",
+    "text": "Verdaderamente, el caminante que se dirige hacia Dios, hacia el Pilar Carmesí en el sendero de blanca nieve, jamás alcanzará su meta celestial a menos que abandone todo lo que los hombres poseen: «Y si no teme a Dios, Dios hará que él tema a todas las cosas; mientras que todas las cosas temen a aquél que teme a Dios»37."
+  },
+  {
+    "id": "/page/79/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Habla en la lengua persa, aunque el árabe te agrade más; un amante tiene más de una lengua a su disposición. 38</p>",
+    "text": "Habla en la lengua persa, aunque el árabe te agrade más; un amante tiene más de una lengua a su disposición. 38"
+  },
+  {
+    "id": "/page/79/Text/4",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Cuán dulce es esta copla que revela tal verdad:</p>",
+    "text": "Cuán dulce es esta copla que revela tal verdad:"
+  },
+  {
+    "id": "/page/80/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Mirad nuestros corazones abiertos como ostras, cuando Él hace llover perlas de gracia.</p>",
+    "text": "Mirad nuestros corazones abiertos como ostras, cuando Él hace llover perlas de gracia."
+  },
+  {
+    "id": "/page/80/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Y nuestra vidas son dianas dispuestas,  cuando Él lanza sus flechas de agonía.</p>",
+    "text": "Y nuestra vidas son dianas dispuestas, cuando Él lanza sus flechas de agonía."
+  },
+  {
+    "id": "/page/80/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Y si no fuera contrario a la Ley del Libro, yo legaría una parte de Mis posesiones a aquél que Me diera muerte y lo nombraría Mi heredero; es más, le otorgaría una porción, le demostraría mi agradecimiento y buscaría refrescar Mis ojos con el toque de su mano. Pero ¿qué puedo hacer? No tengo ni posesiones ni poder, y esto es lo que Dios ha ordenado39.</p>",
+    "text": "Y si no fuera contrario a la Ley del Libro, yo legaría una parte de Mis posesiones a aquél que Me diera muerte y lo nombraría Mi heredero; es más, le otorgaría una porción, le demostraría mi agradecimiento y buscaría refrescar Mis ojos con el toque de su mano. Pero ¿qué puedo hacer? No tengo ni posesiones ni poder, y esto es lo que Dios ha ordenado39."
+  },
+  {
+    "id": "/page/80/Text/4",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">En este momento creo percibir la fragancia de Su vestidura40 fluyendo del Egipto de Bahá41; verdaderamente, Él parece estar muy cerca, aunque los hombres Lo crean lejano42. Mi alma huele el perfume del Amado; Mi sentido está colmado de la fragancia de  Mi querido Compañero.</p>",
+    "text": "En este momento creo percibir la fragancia de Su vestidura40 fluyendo del Egipto de Bahá41; verdaderamente, Él parece estar muy cerca, aunque los hombres Lo crean lejano42. Mi alma huele el perfume del Amado; Mi sentido está colmado de la fragancia de Mi querido Compañero."
+  },
+  {
+    "id": "/page/81/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Cumple con el deber de largos años de amor y cuenta el relato de los felices días pasados, para que la tierra y el cielo puedan reír hoy, y se alegren la mente, el corazón y los ojos. 43</p>",
+    "text": "Cumple con el deber de largos años de amor y cuenta el relato de los felices días pasados, para que la tierra y el cielo puedan reír hoy, y se alegren la mente, el corazón y los ojos. 43"
+  },
+  {
+    "id": "/page/81/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Éste es el reino de la plena conciencia, de la más completa humildad. Ni siquiera el amor es el camino hacia esta región, ni el  anhelo tiene cabida aquí; por eso se dice: «El amor es un velo entre el amante y el amado». Aquí el amor se convierte en un obstáculo y una barrera, y todo salvo Él no es sino un velo. El sabio Saná'í ha escrito:</p>",
+    "text": "Éste es el reino de la plena conciencia, de la más completa humildad. Ni siquiera el amor es el camino hacia esta región, ni el anhelo tiene cabida aquí; por eso se dice: «El amor es un velo entre el amante y el amado». Aquí el amor se convierte en un obstáculo y una barrera, y todo salvo Él no es sino un velo. El sabio Saná'í ha escrito:"
+  },
+  {
+    "id": "/page/81/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Jamás llegará el corazón codicioso al ladrón de corazones, jamás el alma amortajada llegará a unirse con la belleza de la rosa.</p>",
+    "text": "Jamás llegará el corazón codicioso al ladrón de corazones, jamás el alma amortajada llegará a unirse con la belleza de la rosa."
+  },
+  {
+    "id": "/page/81/Text/4",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Pues éste es el reino del Dominio Absoluto y está libre de todos los atributos de la tierra.</p>",
+    "text": "Pues éste es el reino del Dominio Absoluto y está libre de todos los atributos de la tierra."
+  },
+  {
+    "id": "/page/82/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Con absoluta alegría, los eminentes moradores de esta mansión ejercen autoridad divina en la corte del embeleso y ostentan un cetro real. En los altos sitiales de la justicia emiten sus órdenes y distribuyen dones de acuerdo al mérito de cada hombre. Aquellos que beben de esta copa habitan bajo la elevada pérgola del esplendor que cubre el Trono del Anciano de Días y se sientan en el Paraíso del Poder dentro del Excelso Pabellón: «Nada sabrán ni del sol ni del frío penetrante»44.</p>",
+    "text": "Con absoluta alegría, los eminentes moradores de esta mansión ejercen autoridad divina en la corte del embeleso y ostentan un cetro real. En los altos sitiales de la justicia emiten sus órdenes y distribuyen dones de acuerdo al mérito de cada hombre. Aquellos que beben de esta copa habitan bajo la elevada pérgola del esplendor que cubre el Trono del Anciano de Días y se sientan en el Paraíso del Poder dentro del Excelso Pabellón: «Nada sabrán ni del sol ni del frío penetrante»44."
+  },
+  {
+    "id": "/page/82/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\" class=\"has-continuation\">Allí dentro, los cielos altísimos no tienen conflicto alguno con la humilde tierra, ni buscan superarla, pues éste es el reino de la misericordia, no de la distinción. Aunque a cada momento estas almas cumplen una nueva función, sin embargo, su condición es siempre la misma. Por lo cual se ha escrito sobre este reino: «Ninguna labor Le impide hacer otra»45. Y de otro estado se dice: «Cada día Lo reclama alguna nueva tarea»46. Éste</p>",
+    "text": "Allí dentro, los cielos altísimos no tienen conflicto alguno con la humilde tierra, ni buscan superarla, pues éste es el reino de la misericordia, no de la distinción. Aunque a cada momento estas almas cumplen una nueva función, sin embargo, su condición es siempre la misma. Por lo cual se ha escrito sobre este reino: «Ninguna labor Le impide hacer otra»45. Y de otro estado se dice: «Cada día Lo reclama alguna nueva tarea»46. Éste"
+  },
+  {
+    "id": "/page/83/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">es el alimento cuyo sabor no cambia, cuyo color no se altera. Si tú comes de él, en verdad recitarás este versículo: «Vuelvo mi rostro hacia Aquel que ha creado los Cielos y la Tierra. [...]. No soy de aquellos que agregan dioses a su Dios»47. «Y así le mostramos a Abraham el Reino de los Cielos y de la Tierra, para que fuera de los convencidos»48. «Pon entonces la mano sobre tu pecho, luego extiéndela con fuerza y mira, la verás dar luz al mundo entero»49.</p>",
+    "text": "es el alimento cuyo sabor no cambia, cuyo color no se altera. Si tú comes de él, en verdad recitarás este versículo: «Vuelvo mi rostro hacia Aquel que ha creado los Cielos y la Tierra. [...]. No soy de aquellos que agregan dioses a su Dios»47. «Y así le mostramos a Abraham el Reino de los Cielos y de la Tierra, para que fuera de los convencidos»48. «Pon entonces la mano sobre tu pecho, luego extiéndela con fuerza y mira, la verás dar luz al mundo entero»49."
+  },
+  {
+    "id": "/page/83/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">¡Qué cristalina es esta agua fresca que trae el Escanciador! ¡Qué brillante este vino puro en manos del Amado! ¡Cuán delicado este sorbo de la Copa Celestial! Que les siente bien a aquellos que beben de ella y gustan de su dulzura y alcanzan su conocimiento.</p>",
+    "text": "¡Qué cristalina es esta agua fresca que trae el Escanciador! ¡Qué brillante este vino puro en manos del Amado! ¡Cuán delicado este sorbo de la Copa Celestial! Que les siente bien a aquellos que beben de ella y gustan de su dulzura y alcanzan su conocimiento."
+  },
+  {
+    "id": "/page/83/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">No es apropiado que os diga más, pues  el lecho de un arroyo no puede contener el mar. 50</p>",
+    "text": "No es apropiado que os diga más, pues el lecho de un arroyo no puede contener el mar. 50"
+  },
+  {
+    "id": "/page/84/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Pues el misterio de estas palabras está oculto dentro de la fuente inagotable de la Gran Infalibilidad51 y depositado con los tesoros de poder. Está santificado sobre las joyas de la explicación, más allá de todo lo que pueda relatar la más sutil de las lenguas.</p>",
+    "text": "Pues el misterio de estas palabras está oculto dentro de la fuente inagotable de la Gran Infalibilidad51 y depositado con los tesoros de poder. Está santificado sobre las joyas de la explicación, más allá de todo lo que pueda relatar la más sutil de las lenguas."
+  },
+  {
+    "id": "/page/84/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Aquí el asombro es muy preciado y la más completa pobreza es esencial. Por lo cual se ha dicho: «La pobreza es Mi orgullo»52. Y nuevamente: «Bajo la cúpula de gloria Dios tiene un pueblo que Él oculta bajo la vestidura de una radiante pobreza»53. Éstos son aquellos que ven con sus ojos, y oyen con sus oídos, como está escrito en una tradición muy conocida.</p>",
+    "text": "Aquí el asombro es muy preciado y la más completa pobreza es esencial. Por lo cual se ha dicho: «La pobreza es Mi orgullo»52. Y nuevamente: «Bajo la cúpula de gloria Dios tiene un pueblo que Él oculta bajo la vestidura de una radiante pobreza»53. Éstos son aquellos que ven con sus ojos, y oyen con sus oídos, como está escrito en una tradición muy conocida."
+  },
+  {
+    "id": "/page/84/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Respecto a este reino, hay más de una tradición y más de un verso de relevancia amplia o especial, pero dos de ellos serán suficientes para iluminar la mente y el corazón de los hombres.</p>",
+    "text": "Respecto a este reino, hay más de una tradición y más de un verso de relevancia amplia o especial, pero dos de ellos serán suficientes para iluminar la mente y el corazón de los hombres."
+  },
+  {
+    "id": "/page/84/Text/4",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\" class=\"has-continuation\">Ésta es Su primera declaración: «¡Oh Mi Siervo! Obedéceme y haré que seas como Yo</p>",
+    "text": "Ésta es Su primera declaración: «¡Oh Mi Siervo! Obedéceme y haré que seas como Yo"
+  },
+  {
+    "id": "/page/85/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">mismo. Digo \"Sea\" y es, y tú dirás \"Sea\"' y será!».</p>",
+    "text": "mismo. Digo \"Sea\" y es, y tú dirás \"Sea\"' y será!»."
+  },
+  {
+    "id": "/page/85/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">La segunda dice: «¡Oh Hijo de Adán! No busques la compañía de nadie hasta que me hayas encontrado, y cuando Me añores Me encontrarás cerca de ti».</p>",
+    "text": "La segunda dice: «¡Oh Hijo de Adán! No busques la compañía de nadie hasta que me hayas encontrado, y cuando Me añores Me encontrarás cerca de ti»."
+  },
+  {
+    "id": "/page/85/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Sean cuales fueran las elevadas pruebas y maravillosas alusiones aquí contadas, no se refieren sino a una única Letra, a un único Punto. «Tal es el camino de Dios [...] y ningún cambio podrás hallar en el camino de Dios»54.</p>",
+    "text": "Sean cuales fueran las elevadas pruebas y maravillosas alusiones aquí contadas, no se refieren sino a una única Letra, a un único Punto. «Tal es el camino de Dios [...] y ningún cambio podrás hallar en el camino de Dios»54."
+  },
+  {
+    "id": "/page/85/Text/4",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\" class=\"has-continuation\">Hace ya algún tiempo, comencé esta epístola pensando en ti y, puesto que tu carta aún no me había llegado, mis primeras palabras fueron de reproche. Ahora, tu nueva misiva ha disipado ese sentimiento y Me ha impulsado a escribirte. Hablar de Mi amor hacia su Eminencia es innecesario. «¡Dios es suficiente testigo!»<sup>55</sup> Por su Eminencia Shaykh Muh. ammad, ¡que Dios el Exaltado lo bendiga!, me limitaré a los dos</p>",
+    "text": "Hace ya algún tiempo, comencé esta epístola pensando en ti y, puesto que tu carta aún no me había llegado, mis primeras palabras fueron de reproche. Ahora, tu nueva misiva ha disipado ese sentimiento y Me ha impulsado a escribirte. Hablar de Mi amor hacia su Eminencia es innecesario. «¡Dios es suficiente testigo!» 55 Por su Eminencia Shaykh Muh. ammad, ¡que Dios el Exaltado lo bendiga!, me limitaré a los dos"
+  },
+  {
+    "id": "/page/86/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">versos siguientes, que solicito le sean entregados:</p>",
+    "text": "versos siguientes, que solicito le sean entregados:"
+  },
+  {
+    "id": "/page/86/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Busco tu cercanía, más cara que el dulce Cielo. Veo tu rostro, más bello que las enramadas del Paraíso. 56</p>",
+    "text": "Busco tu cercanía, más cara que el dulce Cielo. Veo tu rostro, más bello que las enramadas del Paraíso. 56"
+  },
+  {
+    "id": "/page/86/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Cuando confié este mensaje de amor a Mi pluma, rehuyó la carga y se desvaneció. Al volver en sí, habló y dijo: «¡La Gloria sea Contigo! Penitente, me vuelvo hacia Ti y soy el primero de los que creen»57. ¡Alabado sea Dios, el Señor de los mundos!</p>",
+    "text": "Cuando confié este mensaje de amor a Mi pluma, rehuyó la carga y se desvaneció. Al volver en sí, habló y dijo: «¡La Gloria sea Contigo! Penitente, me vuelvo hacia Ti y soy el primero de los que creen»57. ¡Alabado sea Dios, el Señor de los mundos!"
+  },
+  {
+    "id": "/page/86/Text/4",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Contemos otro día este dolor y pena de la despedida; escribamos otro día los secretos del amor, mejor sería. Deja la sangre y el ruido y todo eso, y no hables más sobre Shams-i-Tabríz. 58</p>",
+    "text": "Contemos otro día este dolor y pena de la despedida; escribamos otro día los secretos del amor, mejor sería. Deja la sangre y el ruido y todo eso, y no hables más sobre Shams-i-Tabríz. 58"
+  },
+  {
+    "id": "/page/87/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">La paz sea contigo y con aquellos que te rodean y alcanzan tu presencia.</p>",
+    "text": "La paz sea contigo y con aquellos que te rodean y alcanzan tu presencia."
+  },
+  {
+    "id": "/page/87/Text/2",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Lo que había escrito antes fue comido por las moscas, tan dulce era la tinta. Como dice Sa'dí: «Me abstendré de seguir escribiendo, pues mis dulces palabras han atraído a las moscas».</p>",
+    "text": "Lo que había escrito antes fue comido por las moscas, tan dulce era la tinta. Como dice Sa'dí: «Me abstendré de seguir escribiendo, pues mis dulces palabras han atraído a las moscas»."
+  },
+  {
+    "id": "/page/87/Text/3",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Y ahora la mano ya no puede escribir más y ruega que esto sea suficiente. Por lo cual digo: «Lejos está la gloria de tu Señor, el Señor de toda grandeza, de aquello que Le atribuyen»59-60.</p>",
+    "text": "Y ahora la mano ya no puede escribir más y ruega que esto sea suficiente. Por lo cual digo: «Lejos está la gloria de tu Señor, el Señor de toda grandeza, de aquello que Le atribuyen»59-60."
+  },
+  {
+    "id": "/page/88/SectionHeader/0",
+    "block_type": "SectionHeader",
+    "html": "<h2>NOTAS</h2>",
+    "text": "NOTAS"
+  },
+  {
+    "id": "/page/88/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">LOS SIETE VALLES</p>",
+    "text": "LOS SIETE VALLES"
+  },
+  {
+    "id": "/page/89/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">La historia es el tema de muchos poemas románticos persas, particularmente el de Nizámí, escrito en 1192 d.C.</p>",
+    "text": "La historia es el tema de muchos poemas románticos persas, particularmente el de Nizámí, escrito en 1192 d.C."
+  },
+  {
+    "id": "/page/90/Text/1",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Ansár significa 'Ayudantes' o compañeros de Muhammad en Medina.</p>",
+    "text": "Ansár significa 'Ayudantes' o compañeros de Muhammad en Medina."
+  },
+  {
+    "id": "/page/91/Text/0",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">Notas 2000 - --------------------------------</p>",
+    "text": "Notas 2000 - --------------------------------"
+  },
+  {
+    "id": "/page/92/Text/0",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">NOTAS</p>",
+    "text": "NOTAS"
+  },
+  {
+    "id": "/page/93/Text/6",
+    "block_type": "Text",
+    "html": "<p block-type=\"Text\">LOS CUATRO VALLES</p>",
+    "text": "LOS CUATRO VALLES"
+  },
+  {
+    "id": "/page/96/SectionHeader/0",
+    "block_type": "SectionHeader",
+    "html": "<h3>NOTAS</h3>",
+    "text": "NOTAS"
+  }
+]

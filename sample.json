@@ -1,0 +1,167 @@
+{
+  "children": [
+    {
+      "id": "/page/0/Page/10",
+      "block_type": "Page",
+      "html": "<content-ref src='/page/0/Picture/0'></content-ref><content-ref src='/page/0/Handwriting/1'></content-ref><content-ref src='/page/0/Picture/2'></content-ref><content-ref src='/page/0/Picture/3'></content-ref><content-ref src='/page/0/Picture/4'></content-ref>",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          340.0,
+          0.0
+        ],
+        [
+          340.0,
+          454.0
+        ],
+        [
+          0.0,
+          454.0
+        ]
+      ],
+      "bbox": [
+        0.0,
+        0.0,
+        340.0,
+        454.0
+      ],
+      "children": [
+        {
+          "id": "/page/0/Picture/0",
+          "block_type": "Picture",
+          "html": "",
+          "polygon": [
+            [
+              83.666015625,
+              81.899560546875
+            ],
+            [
+              257.994140625,
+              81.899560546875
+            ],
+            [
+              257.994140625,
+              150.420751953125
+            ],
+            [
+              83.666015625,
+              150.420751953125
+            ]
+          ],
+          "bbox": [
+            83.666015625,
+            81.899560546875,
+            257.994140625,
+            150.420751953125
+          ],
+          "children": null,
+          "section_hierarchy": {},
+          "images": {
+            "/page/0/Picture/0": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAC3AdADASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKgmu7e3x588UWem9wv86AJ6KByKKACig1n6lrmm6Qga/vIoSfuoTl2/3VHJ/AUAaFFcjL8TPClvMsVzqTWzN0+0W8kY/VRXTWl7a39slzZ3EVxA4yskThlb6EUAWKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAOU+IviiTwj4Nu9Tt1DXRKwwbhkB27n6DJ/Cs7wH4SsxoVnrWrINS1m9jW5lurseaylhkKmfugZ7Vp/EHws3jDwjdaVFIsdxlZYGboHXoD7EZH41h/DfxUsWlQeF9dH9n63p6iDybj5fOReFZCeG49PTNAHoo6UUdqoavrFloemzX9/cRwQRIWLO2M+w9T7UAcz4j8WznxJa+EdBZTq9yN887DctpFjJYju2Og9xWxGuh+Gmto7i5iS8u5FhSa5cNPcyE4Az1PJ+g9q8f8AhLPrWseIPEWvW1nHLc3kgX7ZcNiOEFixAA5Y428DHTrUHmyeHfj5HJ4t1E3MS5MF3OoRFDL8hA6KAcjjoRmgD3fU9KsNYs3tNRs4bqBxgpKgYf8A1q8m+HtvN4V+LmveErWaR9JEP2iON2J2H5CP0cg+uBXd678QNE0m1H2W6i1O/l+W3srKQSySseg+XOB7mq/gjwxd6fNfeINbEZ17VWDzhPuwoPuxj6ADJ9vagDs6KKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACs7VdH0nV4NuqWFrdRpyDPGrbPcE9PrUmq6paaLpdxqN/KIrW3Qu7H09PqeleN2K+IPjNqktxczz6Z4Sgk2rDGcNOR2z3Pqeg7c0AdcbjwZbXpsdLvtSuLof8uulXtw+Prsbav4kVJqXhP8AtnS7qC38PQRzXE... [truncated]
+          }
+        },
+        {
+          "id": "/page/0/Handwriting/1",
+          "block_type": "Handwriting",
+          "html": "<p>e la Unidad</p>\n",
+          "polygon": [
+            [
+              88.56512141280352,
+              145.5801652892562
+            ],
+            [
+              255.1876379690949,
+              145.5801652892562
+            ],
+            [
+              255.1876379690949,
+              193.85888671875
+            ],
+            [
+              88.56512141280352,
+              193.85888671875
+            ]
+          ],
+          "bbox": [
+            88.56512141280352,
+            145.5801652892562,
+            255.1876379690949,
+            193.85888671875
+          ],
+          "children": null,
+          "section_hierarchy": {},
+          "images": {}
+        },
+        {
+          "id": "/page/0/PageHeader/2",
+          "block_type": "PageHeader",
+          "html": "<p>Header Content</p>",
+          "polygon": [
+            [
+              82.841796875,
+              220.2609375
+            ],
+            [
+              265.458984375,
+              220.2609375
+            ],
+            [
+              265.458984375,
+              270.98125
+            ],
+            [
+              82.841796875,
+              270.98125
+            ]
+          ],
+          "bbox": [
+            82.841796875,
+            220.2609375,
+            265.458984375,
+            270.98125
+          ],
+          "children": null,
+          "section_hierarchy": {},
+          "images": {}
+        },
+        {
+          "id": "/page/0/PageFooter/3",
+          "block_type": "PageFooter",
+          "html": "<p>Footer Content</p>",
+          "polygon": [
+            [
+              137.672607421875,
+              279.69326171875
+            ],
+            [
+              207.88891601562497,
+              279.69326171875
+            ],
+            [
+              207.88891601562497,
+              349.43369140625
+            ],
+            [
+              137.672607421875,
+              349.43369140625
+            ]
+          ],
+          "bbox": [
+            137.672607421875,
+            279.69326171875,
+            207.88891601562497,
+            349.43369140625
+          ],
+          "children": null,
+          "section_hierarchy": {},
+          "images": {}
+        }
+      ],
+      "section_hierarchy": {},
+      "images": null
+    }
+  ]
+}
